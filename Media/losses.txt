@@ -1,0 +1,3704 @@
+	File 1
+		Loss: 5.592766	Time: 6.52 seconds
+		Loss: 5.540029	Time: 6.77 seconds
+		Loss: 5.458339	Time: 6.65 seconds
+		Loss: 5.400393	Time: 7.26 seconds
+		Loss: 5.298979	Time: 6.85 seconds
+		Loss: 5.243863	Time: 7.20 seconds
+		Loss: 5.219109	Time: 8.05 seconds
+		Loss: 5.127497	Time: 7.64 seconds
+		Loss: 5.031357	Time: 6.99 seconds
+		Loss: 5.098510	Time: 7.48 seconds
+		Loss: 4.453425	Time: 5.52 seconds
+Saving model into ./model_saves/
+	File 2
+		Loss: 5.021134	Time: 6.81 seconds
+		Loss: 5.174919	Time: 6.79 seconds
+		Loss: 5.337686	Time: 6.62 seconds
+		Loss: 4.992117	Time: 6.54 seconds
+		Loss: 5.000224	Time: 6.87 seconds
+		Loss: 4.816884	Time: 7.20 seconds
+		Loss: 4.827821	Time: 5.75 seconds
+Saving model into ./model_saves/
+	File 3
+		Loss: 4.635498	Time: 7.21 seconds
+		Loss: 4.716049	Time: 6.88 seconds
+		Loss: 4.867043	Time: 6.66 seconds
+		Loss: 4.586826	Time: 6.71 seconds
+		Loss: 4.540300	Time: 6.82 seconds
+		Loss: 4.542975	Time: 6.76 seconds
+		Loss: 4.415664	Time: 7.62 seconds
+		Loss: 4.259709	Time: 6.30 seconds
+Saving model into ./model_saves/
+	File 4
+		Loss: 4.291312	Time: 6.54 seconds
+		Loss: 4.467068	Time: 6.85 seconds
+        	Loss: 4.452172	Time: 6.49 seconds
+		Loss: 4.246441	Time: 6.58 seconds
+		Loss: 4.205498	Time: 6.98 seconds
+		Loss: 3.948118	Time: 6.81 seconds
+		Loss: 4.051769	Time: 7.01 seconds
+		Loss: 4.032359	Time: 6.54 seconds
+		Loss: 3.551821	Time: 6.59 seconds
+		Loss: 3.887295	Time: 6.47 seconds
+		Loss: 3.354261	Time: 6.54 seconds
+		Loss: 3.550433	Time: 6.58 seconds
+		Loss: 3.391665	Time: 6.47 seconds
+		Loss: 2.726092	Time: 5.42 seconds
+Saving model into ./model_saves/
+	File 5
+        	Loss: 3.079442	Time: 6.52 seconds
+		Loss: 3.148239	Time: 6.42 seconds
+		Loss: 2.710567	Time: 6.47 seconds
+		Loss: 2.729390	Time: 7.41 seconds
+		Loss: 2.241746	Time: 7.11 seconds
+		Loss: 2.630588	Time: 7.12 seconds
+		Loss: 2.322834	Time: 6.23 seconds
+Saving model into ./model_saves/
+	File 6
+		Loss: 2.435421	Time: 6.81 seconds
+		Loss: 2.357976	Time: 7.28 seconds
+		Loss: 2.322936	Time: 6.79 seconds
+		Loss: 2.204871	Time: 7.06 seconds
+		Loss: 2.107708	Time: 6.60 seconds
+		Loss: 2.326462	Time: 6.69 seconds
+		Loss: 1.827155	Time: 6.96 seconds
+		Loss: 1.691802	Time: 6.78 seconds
+		Loss: 1.754549	Time: 6.64 seconds
+		Loss: 1.509708	Time: 6.97 seconds
+		Loss: 1.642876	Time: 6.77 seconds
+		Loss: 1.326046	Time: 6.34 seconds
+Saving model into ./model_saves/
+	File 7
+		Loss: 1.896248	Time: 7.07 seconds
+		Loss: 1.375917	Time: 6.97 seconds
+		Loss: 1.257538	Time: 6.95 seconds
+		Loss: 1.260594	Time: 7.97 seconds
+		Loss: 1.057201	Time: 7.17 seconds
+		Loss: 0.825675	Time: 6.53 seconds
+		Loss: 0.913089	Time: 6.62 seconds
+		Loss: 0.939894	Time: 6.70 seconds
+		Loss: 0.675607	Time: 6.08 seconds
+Saving model into ./model_saves/
+	File 8
+		Loss: 0.912781	Time: 6.76 seconds
+		Loss: 0.862678	Time: 6.82 seconds
+		Loss: 0.543279	Time: 8.05 seconds
+		Loss: 0.632987	Time: 7.78 seconds
+		Loss: 0.453129	Time: 7.19 seconds
+		Loss: 0.383361	Time: 7.75 seconds
+		Loss: 0.489675	Time: 7.28 seconds
+		Loss: 0.636721	Time: 6.07 seconds
+Saving model into ./model_saves/
+	File 9
+		Loss: 0.528665	Time: 6.61 seconds
+		Loss: 0.381741	Time: 6.61 seconds
+		Loss: 0.535643	Time: 6.40 seconds
+		Loss: 0.389799	Time: 7.23 seconds
+		Loss: 0.671435	Time: 6.80 seconds
+		Loss: 0.308389	Time: 6.54 seconds
+		Loss: 0.242768	Time: 6.95 seconds
+		Loss: 0.304652	Time: 6.81 seconds
+		Loss: 0.228805	Time: 6.51 seconds
+Saving model into ./model_saves/
+	File 10
+		Loss: 0.315674	Time: 6.76 seconds
+		Loss: 0.884594	Time: 6.68 seconds
+		Loss: 0.241890	Time: 6.94 seconds
+		Loss: 0.455820	Time: 7.05 seconds
+		Loss: 0.304875	Time: 10.77 seconds
+		Loss: 0.146768	Time: 10.98 seconds
+		Loss: 0.349245	Time: 11.05 seconds
+		Loss: 0.200713	Time: 10.88 seconds
+		Loss: 0.146097	Time: 10.89 seconds
+		Loss: 0.141281	Time: 10.63 seconds
+		Loss: 0.195877	Time: 10.87 seconds
+		Loss: 0.217480	Time: 8.68 seconds
+Saving model into ./model_saves/
+	File 11
+		Loss: 0.136851	Time: 10.84 seconds
+		Loss: 0.215482	Time: 6.87 seconds
+		Loss: 0.137846	Time: 7.92 seconds
+		Loss: 0.127519	Time: 6.29 seconds
+		Loss: 0.110581	Time: 6.32 seconds
+		Loss: 0.188223	Time: 9.45 seconds
+		Loss: 0.183448	Time: 10.81 seconds
+		Loss: 0.078439	Time: 7.91 seconds
+		Loss: 0.098366	Time: 10.67 seconds
+		Loss: 0.200467	Time: 8.91 seconds
+Saving model into ./model_saves/
+	File 12
+		Loss: 0.196235	Time: 10.79 seconds
+		Loss: 0.102893	Time: 10.42 seconds
+		Loss: 0.269940	Time: 10.71 seconds
+		Loss: 0.127181	Time: 10.65 seconds
+		Loss: 0.064668	Time: 10.60 seconds
+		Loss: 0.121719	Time: 10.72 seconds
+		Loss: 0.171862	Time: 10.56 seconds
+		Loss: 0.085746	Time: 10.03 seconds
+Saving model into ./model_saves/
+	File 13
+		Loss: 0.130179	Time: 10.78 seconds
+		Loss: 0.181271	Time: 6.30 seconds
+		Loss: 0.049553	Time: 6.28 seconds
+		Loss: 0.081743	Time: 6.40 seconds
+		Loss: 0.064249	Time: 6.30 seconds
+		Loss: 0.118780	Time: 6.32 seconds
+		Loss: 0.175718	Time: 6.32 seconds
+		Loss: 0.052033	Time: 6.31 seconds
+		Loss: 0.064312	Time: 6.32 seconds
+		Loss: 0.068671	Time: 6.33 seconds
+		Loss: 0.084988	Time: 5.90 seconds
+Saving model into ./model_saves/
+	File 14
+		Loss: 0.070675	Time: 6.39 seconds
+		Loss: 0.057009	Time: 6.28 seconds
+		Loss: 0.056132	Time: 6.28 seconds
+		Loss: 0.274366	Time: 6.29 seconds
+		Loss: 0.052514	Time: 6.32 seconds
+		Loss: 0.049412	Time: 6.31 seconds
+		Loss: 0.053091	Time: 5.76 seconds
+Saving model into ./model_saves/
+	File 15
+		Loss: 0.270608	Time: 6.41 seconds
+		Loss: 0.227662	Time: 6.29 seconds
+		Loss: 0.113645	Time: 6.31 seconds
+		Loss: 0.227446	Time: 6.31 seconds
+		Loss: 0.056360	Time: 6.31 seconds
+		Loss: 0.049348	Time: 6.33 seconds
+		Loss: 0.045958	Time: 6.32 seconds
+		Loss: 0.052709	Time: 6.32 seconds
+		Loss: 0.042222	Time: 6.32 seconds
+		Loss: 0.025564	Time: 5.22 seconds
+Saving model into ./model_saves/
+	File 16
+		Loss: 0.055898	Time: 6.33 seconds
+		Loss: 0.043122	Time: 6.24 seconds
+		Loss: 0.031031	Time: 6.25 seconds
+		Loss: 0.065368	Time: 6.26 seconds
+		Loss: 0.040395	Time: 6.27 seconds
+		Loss: 0.032140	Time: 6.28 seconds
+		Loss: 0.025419	Time: 6.27 seconds
+		Loss: 0.031232	Time: 6.28 seconds
+		Loss: 0.035014	Time: 6.27 seconds
+		Loss: 0.048632	Time: 5.24 seconds
+Saving model into ./model_saves/
+	File 17
+		Loss: 0.036857	Time: 6.38 seconds
+		Loss: 0.046902	Time: 6.28 seconds
+		Loss: 0.031432	Time: 6.27 seconds
+		Loss: 0.040772	Time: 6.41 seconds
+		Loss: 0.027641	Time: 10.47 seconds
+		Loss: 0.039469	Time: 10.66 seconds
+		Loss: 0.039602	Time: 10.49 seconds
+		Loss: 0.029983	Time: 10.88 seconds
+Saving model into ./model_saves/
+	File 18
+		Loss: 0.065963	Time: 11.18 seconds
+		Loss: 0.028577	Time: 10.81 seconds
+		Loss: 0.023285	Time: 10.92 seconds
+		Loss: 0.031529	Time: 10.99 seconds
+		Loss: 0.032495	Time: 10.93 seconds
+		Loss: 0.023302	Time: 6.35 seconds
+		Loss: 0.035888	Time: 5.91 seconds
+Saving model into ./model_saves/
+	File 19
+		Loss: 0.033176	Time: 6.57 seconds
+		Loss: 0.023693	Time: 6.28 seconds
+		Loss: 0.022008	Time: 10.99 seconds
+		Loss: 0.062795	Time: 10.94 seconds
+		Loss: 0.026836	Time: 6.31 seconds
+		Loss: 0.033948	Time: 10.96 seconds
+		Loss: 0.025971	Time: 10.82 seconds
+		Loss: 0.035598	Time: 9.00 seconds
+Saving model into ./model_saves/
+	File 20
+		Loss: 0.027218	Time: 11.13 seconds
+		Loss: 0.033668	Time: 6.27 seconds
+		Loss: 0.022685	Time: 10.44 seconds
+		Loss: 0.051517	Time: 7.20 seconds
+		Loss: 0.032471	Time: 6.49 seconds
+		Loss: 0.022711	Time: 7.64 seconds
+		Loss: 0.019911	Time: 9.45 seconds
+		Loss: 0.018610	Time: 11.04 seconds
+		Loss: 0.025482	Time: 11.16 seconds
+		Loss: 0.032687	Time: 9.91 seconds
+Saving model into ./model_saves/
+	File 21
+		Loss: 0.028576	Time: 11.07 seconds
+		Loss: 0.025711	Time: 10.99 seconds
+		Loss: 0.044265	Time: 11.31 seconds
+		Loss: 0.018422	Time: 10.98 seconds
+		Loss: 0.019234	Time: 11.21 seconds
+		Loss: 0.023372	Time: 11.20 seconds
+Saving model into ./model_saves/
+	File 22
+		Loss: 0.050023	Time: 11.33 seconds
+		Loss: 0.020949	Time: 11.03 seconds
+		Loss: 0.029552	Time: 10.95 seconds
+		Loss: 0.021770	Time: 11.10 seconds
+		Loss: 0.015112	Time: 11.12 seconds
+		Loss: 0.029436	Time: 11.38 seconds
+		Loss: 0.022423	Time: 11.11 seconds
+		Loss: 0.023681	Time: 11.08 seconds
+		Loss: 0.053831	Time: 11.04 seconds
+		Loss: 0.017267	Time: 11.20 seconds
+		Loss: 0.023840	Time: 11.27 seconds
+		Loss: 0.018373	Time: 9.26 seconds
+Saving model into ./model_saves/
+	File 23
+		Loss: 0.022814	Time: 11.23 seconds
+		Loss: 0.014170	Time: 10.71 seconds
+		Loss: 0.014880	Time: 11.06 seconds
+		Loss: 0.049380	Time: 11.20 seconds
+		Loss: 0.018238	Time: 11.06 seconds
+		Loss: 0.015868	Time: 10.92 seconds
+		Loss: 0.016578	Time: 11.14 seconds
+		Loss: 0.016115	Time: 10.95 seconds
+		Loss: 0.017995	Time: 11.12 seconds
+		Loss: 0.017395	Time: 11.13 seconds
+		Loss: 0.020843	Time: 9.74 seconds
+Saving model into ./model_saves/
+	File 24
+		Loss: 0.010966	Time: 11.06 seconds
+		Loss: 0.018369	Time: 11.13 seconds
+		Loss: 0.033575	Time: 10.97 seconds
+		Loss: 0.015816	Time: 11.09 seconds
+		Loss: 0.017788	Time: 11.23 seconds
+		Loss: 0.017082	Time: 10.87 seconds
+		Loss: 0.009413	Time: 9.29 seconds
+Saving model into ./model_saves/
+	File 25
+		Loss: 0.039792	Time: 11.08 seconds
+		Loss: 0.025477	Time: 6.58 seconds
+		Loss: 0.011528	Time: 6.39 seconds
+		Loss: 0.013651	Time: 6.52 seconds
+		Loss: 0.013645	Time: 6.41 seconds
+		Loss: 0.045188	Time: 6.52 seconds
+		Loss: 0.015083	Time: 6.99 seconds
+		Loss: 0.011124	Time: 6.49 seconds
+		Loss: 0.011315	Time: 6.52 seconds
+		Loss: 0.014479	Time: 6.44 seconds
+Saving model into ./model_saves/
+	File 26
+		Loss: 0.026459	Time: 6.66 seconds
+		Loss: 0.020255	Time: 7.84 seconds
+		Loss: 0.011974	Time: 7.03 seconds
+		Loss: 0.024191	Time: 6.75 seconds
+		Loss: 0.016109	Time: 7.58 seconds
+		Loss: 0.021267	Time: 5.64 seconds
+Saving model into ./model_saves/
+	File 27
+		Loss: 0.022637	Time: 6.79 seconds
+		Loss: 0.028000	Time: 6.59 seconds
+		Loss: 0.014490	Time: 7.47 seconds
+		Loss: 0.014685	Time: 7.51 seconds
+		Loss: 0.011873	Time: 7.53 seconds
+		Loss: 0.026982	Time: 7.86 seconds
+		Loss: 0.015948	Time: 5.94 seconds
+Saving model into ./model_saves/
+	File 28
+		Loss: 0.042660	Time: 7.53 seconds
+		Loss: 0.023651	Time: 8.00 seconds
+		Loss: 0.011768	Time: 7.64 seconds
+		Loss: 0.050808	Time: 7.49 seconds
+		Loss: 0.011058	Time: 6.63 seconds
+		Loss: 0.024622	Time: 6.77 seconds
+		Loss: 0.014004	Time: 6.90 seconds
+		Loss: 0.012773	Time: 7.43 seconds
+		Loss: 0.013238	Time: 6.45 seconds
+		Loss: 0.012270	Time: 7.37 seconds
+		Loss: 0.014549	Time: 9.00 seconds
+Saving model into ./model_saves/
+	File 29
+		Loss: 0.011499	Time: 9.98 seconds
+		Loss: 0.016703	Time: 9.64 seconds
+		Loss: 0.016504	Time: 9.87 seconds
+		Loss: 0.014709	Time: 9.80 seconds
+		Loss: 0.015039	Time: 9.83 seconds
+		Loss: 0.007659	Time: 10.12 seconds
+		Loss: 0.016970	Time: 9.70 seconds
+		Loss: 0.011350	Time: 9.61 seconds
+Saving model into ./model_saves/
+	File 30
+		Loss: 0.009158	Time: 9.94 seconds
+		Loss: 0.010871	Time: 9.92 seconds
+		Loss: 0.009021	Time: 9.69 seconds
+		Loss: 0.010333	Time: 9.77 seconds
+		Loss: 0.017883	Time: 9.52 seconds
+		Loss: 0.008072	Time: 9.91 seconds
+		Loss: 0.008933	Time: 9.87 seconds
+		Loss: 0.012569	Time: 10.10 seconds
+		Loss: 0.009085	Time: 9.83 seconds
+		Loss: 0.007753	Time: 9.59 seconds
+		Loss: 0.007114	Time: 9.68 seconds
+		Loss: 0.011439	Time: 9.48 seconds
+		Loss: 0.008040	Time: 9.83 seconds
+		Loss: 0.008940	Time: 8.01 seconds
+Saving model into ./model_saves/
+	File 31
+		Loss: 0.008642	Time: 9.93 seconds
+		Loss: 0.012141	Time: 9.98 seconds
+		Loss: 0.029512	Time: 9.78 seconds
+		Loss: 0.009399	Time: 9.84 seconds
+		Loss: 0.012717	Time: 9.95 seconds
+		Loss: 0.016932	Time: 9.94 seconds
+		Loss: 0.012008	Time: 9.88 seconds
+		Loss: 0.033797	Time: 9.71 seconds
+		Loss: 0.009863	Time: 9.84 seconds
+		Loss: 0.011005	Time: 8.40 seconds
+Saving model into ./model_saves/
+	File 32
+		Loss: 0.007555	Time: 6.43 seconds
+		Loss: 0.008823	Time: 9.78 seconds
+		Loss: 0.014111	Time: 9.61 seconds
+		Loss: 0.007077	Time: 6.52 seconds
+		Loss: 0.007726	Time: 9.88 seconds
+		Loss: 0.011985	Time: 9.98 seconds
+		Loss: 0.012287	Time: 9.87 seconds
+		Loss: 0.007703	Time: 9.83 seconds
+		Loss: 0.013160	Time: 9.90 seconds
+		Loss: 0.008521	Time: 5.42 seconds
+Saving model into ./model_saves/
+	File 33
+		Loss: 0.009411	Time: 10.06 seconds
+		Loss: 0.008268	Time: 10.29 seconds
+		Loss: 0.007785	Time: 10.52 seconds
+		Loss: 0.006841	Time: 10.36 seconds
+		Loss: 0.014589	Time: 10.58 seconds
+		Loss: 0.007074	Time: 10.40 seconds
+		Loss: 0.008908	Time: 10.67 seconds
+		Loss: 0.007044	Time: 10.59 seconds
+		Loss: 0.006761	Time: 10.65 seconds
+		Loss: 0.012057	Time: 10.42 seconds
+		Loss: 0.007174	Time: 10.47 seconds
+		Loss: 0.008090	Time: 10.43 seconds
+		Loss: 0.008441	Time: 10.56 seconds
+		Loss: 0.007827	Time: 8.75 seconds
+Saving model into ./model_saves/
+	File 34
+		Loss: 0.008667	Time: 10.45 seconds
+		Loss: 0.006250	Time: 10.76 seconds
+		Loss: 0.005308	Time: 10.81 seconds
+		Loss: 0.013369	Time: 10.64 seconds
+		Loss: 0.007986	Time: 10.42 seconds
+		Loss: 0.010135	Time: 10.27 seconds
+		Loss: 0.009386	Time: 10.45 seconds
+		Loss: 0.007965	Time: 9.25 seconds
+Saving model into ./model_saves/
+	File 35
+		Loss: 0.008175	Time: 10.57 seconds
+		Loss: 0.011532	Time: 10.70 seconds
+		Loss: 0.020475	Time: 10.49 seconds
+		Loss: 0.005343	Time: 10.65 seconds
+		Loss: 0.007523	Time: 10.42 seconds
+		Loss: 0.006833	Time: 10.48 seconds
+		Loss: 0.009332	Time: 10.33 seconds
+		Loss: 0.007562	Time: 9.40 seconds
+Saving model into ./model_saves/
+	File 36
+		Loss: 0.018240	Time: 10.35 seconds
+		Loss: 0.010141	Time: 10.52 seconds
+		Loss: 0.005684	Time: 10.52 seconds
+		Loss: 0.005670	Time: 10.56 seconds
+Saving model into ./model_saves/
+	File 37
+		Loss: 0.007205	Time: 10.52 seconds
+		Loss: 0.018763	Time: 10.44 seconds
+		Loss: 0.007336	Time: 10.55 seconds
+		Loss: 0.006345	Time: 10.31 seconds
+		Loss: 0.009001	Time: 10.45 seconds
+		Loss: 0.006074	Time: 10.35 seconds
+		Loss: 0.008866	Time: 10.61 seconds
+		Loss: 0.005577	Time: 10.52 seconds
+		Loss: 0.006282	Time: 10.53 seconds
+		Loss: 0.007451	Time: 10.81 seconds
+		Loss: 0.004719	Time: 10.44 seconds
+		Loss: 0.013745	Time: 10.43 seconds
+		Loss: 0.005849	Time: 10.46 seconds
+		Loss: 0.005541	Time: 9.38 seconds
+Saving model into ./model_saves/
+	File 38
+		Loss: 0.005201	Time: 10.68 seconds
+		Loss: 0.007927	Time: 10.53 seconds
+		Loss: 0.012166	Time: 10.54 seconds
+		Loss: 0.004408	Time: 10.34 seconds
+		Loss: 0.006447	Time: 10.45 seconds
+		Loss: 0.006125	Time: 10.54 seconds
+		Loss: 0.004091	Time: 9.45 seconds
+Saving model into ./model_saves/
+	File 39
+		Loss: 0.006408	Time: 10.56 seconds
+		Loss: 0.006969	Time: 10.36 seconds
+		Loss: 0.026930	Time: 10.38 seconds
+		Loss: 0.005313	Time: 6.59 seconds
+		Loss: 0.009938	Time: 6.28 seconds
+		Loss: 0.006284	Time: 10.34 seconds
+		Loss: 0.007149	Time: 10.33 seconds
+		Loss: 0.004711	Time: 10.38 seconds
+		Loss: 0.005268	Time: 10.44 seconds
+		Loss: 0.006139	Time: 10.39 seconds
+		Loss: 0.005642	Time: 10.38 seconds
+		Loss: 0.007502	Time: 9.15 seconds
+Saving model into ./model_saves/
+	File 40
+		Loss: 0.015444	Time: 9.92 seconds
+		Loss: 0.006260	Time: 10.17 seconds
+		Loss: 0.006691	Time: 10.31 seconds
+		Loss: 0.009975	Time: 10.53 seconds
+		Loss: 0.011442	Time: 10.32 seconds
+		Loss: 0.005652	Time: 10.20 seconds
+		Loss: 0.008331	Time: 10.24 seconds
+		Loss: 0.007987	Time: 10.26 seconds
+		Loss: 0.007203	Time: 10.29 seconds
+		Loss: 0.005994	Time: 10.26 seconds
+		Loss: 0.008138	Time: 10.50 seconds
+		Loss: 0.006354	Time: 10.18 seconds
+		Loss: 0.007589	Time: 10.30 seconds
+		Loss: 0.006181	Time: 10.55 seconds
+		Loss: 0.005143	Time: 9.17 seconds
+Saving model into ./model_saves/
+	File 41
+		Loss: 0.007805	Time: 10.39 seconds
+		Loss: 0.005516	Time: 9.60 seconds
+		Loss: 0.015945	Time: 10.60 seconds
+		Loss: 0.004377	Time: 10.14 seconds
+		Loss: 0.005134	Time: 10.45 seconds
+		Loss: 0.006231	Time: 10.15 seconds
+		Loss: 0.005111	Time: 9.55 seconds
+Saving model into ./model_saves/
+	File 42
+		Loss: 0.005730	Time: 10.46 seconds
+		Loss: 0.005935	Time: 10.38 seconds
+		Loss: 0.004226	Time: 10.45 seconds
+		Loss: 0.009991	Time: 10.26 seconds
+		Loss: 0.004395	Time: 10.48 seconds
+		Loss: 0.006727	Time: 10.40 seconds
+		Loss: 0.004639	Time: 10.49 seconds
+		Loss: 0.005981	Time: 10.26 seconds
+		Loss: 0.003946	Time: 10.53 seconds
+		Loss: 0.004096	Time: 10.00 seconds
+Saving model into ./model_saves/
+	File 43
+		Loss: 0.004349	Time: 10.43 seconds
+		Loss: 0.004444	Time: 10.34 seconds
+		Loss: 0.005811	Time: 10.39 seconds
+		Loss: 0.004596	Time: 10.49 seconds
+		Loss: 0.006638	Time: 10.22 seconds
+		Loss: 0.004566	Time: 10.44 seconds
+		Loss: 0.005026	Time: 10.33 seconds
+		Loss: 0.004682	Time: 10.23 seconds
+		Loss: 0.005059	Time: 10.26 seconds
+		Loss: 0.004178	Time: 10.38 seconds
+		Loss: 0.005047	Time: 10.38 seconds
+		Loss: 0.004285	Time: 10.20 seconds
+		Loss: 0.005347	Time: 10.47 seconds
+		Loss: 0.005148	Time: 10.32 seconds
+		Loss: 0.004398	Time: 10.13 seconds
+		Loss: 0.004236	Time: 10.40 seconds
+		Loss: 0.001417	Time: 8.94 seconds
+Saving model into ./model_saves/
+	File 44
+		Loss: 0.007116	Time: 10.35 seconds
+		Loss: 0.005832	Time: 7.32 seconds
+		Loss: 0.005270	Time: 8.32 seconds
+		Loss: 0.009315	Time: 6.30 seconds
+		Loss: 0.005136	Time: 6.47 seconds
+		Loss: 0.004628	Time: 6.46 seconds
+		Loss: 0.005886	Time: 6.43 seconds
+		Loss: 0.003337	Time: 6.54 seconds
+		Loss: 0.005881	Time: 6.55 seconds
+		Loss: 0.004619	Time: 6.28 seconds
+		Loss: 0.003872	Time: 6.28 seconds
+		Loss: 0.003559	Time: 6.42 seconds
+		Loss: 0.004334	Time: 5.47 seconds
+Saving model into ./model_saves/
+	File 45
+		Loss: 0.004630	Time: 6.43 seconds
+		Loss: 0.004617	Time: 6.44 seconds
+		Loss: 0.004634	Time: 6.59 seconds
+		Loss: 0.004379	Time: 6.77 seconds
+		Loss: 0.003507	Time: 6.41 seconds
+		Loss: 0.013830	Time: 6.39 seconds
+		Loss: 0.004478	Time: 6.31 seconds
+		Loss: 0.003795	Time: 6.39 seconds
+		Loss: 0.004067	Time: 6.46 seconds
+		Loss: 0.003362	Time: 6.27 seconds
+		Loss: 0.004809	Time: 10.58 seconds
+		Loss: 0.005284	Time: 10.40 seconds
+Saving model into ./model_saves/
+	File 46
+		Loss: 0.005677	Time: 10.48 seconds
+		Loss: 0.003767	Time: 10.30 seconds
+		Loss: 0.003939	Time: 10.57 seconds
+		Loss: 0.003101	Time: 10.49 seconds
+		Loss: 0.003264	Time: 10.37 seconds
+		Loss: 0.003670	Time: 8.90 seconds
+Saving model into ./model_saves/
+	File 47
+		Loss: 0.004403	Time: 10.58 seconds
+		Loss: 0.005455	Time: 10.50 seconds
+		Loss: 0.006835	Time: 10.63 seconds
+		Loss: 0.003783	Time: 10.29 seconds
+		Loss: 0.004050	Time: 10.37 seconds
+		Loss: 0.005006	Time: 10.51 seconds
+		Loss: 0.005335	Time: 9.09 seconds
+Saving model into ./model_saves/
+	File 48
+		Loss: 0.008401	Time: 10.59 seconds
+		Loss: 0.005781	Time: 9.39 seconds
+		Loss: 0.006084	Time: 10.82 seconds
+		Loss: 0.004555	Time: 6.26 seconds
+		Loss: 0.003633	Time: 10.64 seconds
+		Loss: 0.005988	Time: 7.80 seconds
+		Loss: 0.003165	Time: 6.94 seconds
+		Loss: 0.003661	Time: 8.56 seconds
+		Loss: 0.004575	Time: 7.71 seconds
+		Loss: 0.003981	Time: 7.08 seconds
+Saving model into ./model_saves/
+	File 49
+		Loss: 0.004472	Time: 8.41 seconds
+		Loss: 0.006244	Time: 7.46 seconds
+		Loss: 0.003802	Time: 7.21 seconds
+		Loss: 0.003109	Time: 7.69 seconds
+		Loss: 0.004147	Time: 6.33 seconds
+		Loss: 0.003141	Time: 7.80 seconds
+		Loss: 0.003278	Time: 6.95 seconds
+		Loss: 0.002797	Time: 7.18 seconds
+		Loss: 0.003072	Time: 7.12 seconds
+		Loss: 0.003669	Time: 8.79 seconds
+		Loss: 0.005090	Time: 6.16 seconds
+Saving model into ./model_saves/
+	File 50
+		Loss: 0.002687	Time: 6.41 seconds
+		Loss: 0.006180	Time: 6.29 seconds
+		Loss: 0.004393	Time: 6.63 seconds
+		Loss: 0.010528	Time: 6.36 seconds
+		Loss: 0.003555	Time: 7.01 seconds
+		Loss: 0.004804	Time: 6.29 seconds
+		Loss: 0.003390	Time: 6.31 seconds
+		Loss: 0.003233	Time: 5.72 seconds
+Saving model into ./model_saves/
+	File 51
+		Loss: 0.004495	Time: 6.96 seconds
+		Loss: 0.004839	Time: 7.52 seconds
+		Loss: 0.002404	Time: 7.90 seconds
+		Loss: 0.003515	Time: 6.59 seconds
+		Loss: 0.003026	Time: 6.82 seconds
+		Loss: 0.002466	Time: 5.69 seconds
+Saving model into ./model_saves/
+	File 52
+		Loss: 0.003383	Time: 8.07 seconds
+		Loss: 0.003935	Time: 7.79 seconds
+		Loss: 0.005573	Time: 7.32 seconds
+		Loss: 0.003747	Time: 6.97 seconds
+		Loss: 0.003113	Time: 8.00 seconds
+		Loss: 0.003933	Time: 7.18 seconds
+		Loss: 0.003783	Time: 7.31 seconds
+		Loss: 0.002134	Time: 8.54 seconds
+		Loss: 0.002809	Time: 7.03 seconds
+		Loss: 0.003427	Time: 7.26 seconds
+		Loss: 0.002558	Time: 7.03 seconds
+		Loss: 0.002346	Time: 5.60 seconds
+Saving model into ./model_saves/
+	File 53
+		Loss: 0.004242	Time: 6.84 seconds
+		Loss: 0.012681	Time: 6.47 seconds
+		Loss: 0.005286	Time: 6.30 seconds
+		Loss: 0.003348	Time: 6.57 seconds
+		Loss: 0.002612	Time: 6.69 seconds
+		Loss: 0.003640	Time: 6.75 seconds
+		Loss: 0.005222	Time: 8.05 seconds
+		Loss: 0.004603	Time: 7.03 seconds
+		Loss: 0.002876	Time: 10.85 seconds
+		Loss: 0.002487	Time: 10.55 seconds
+		Loss: 0.002983	Time: 10.80 seconds
+		Loss: 0.003045	Time: 10.69 seconds
+		Loss: 0.003858	Time: 9.58 seconds
+Saving model into ./model_saves/
+	File 54
+		Loss: 0.003094	Time: 10.54 seconds
+		Loss: 0.002795	Time: 10.63 seconds
+		Loss: 0.004250	Time: 10.54 seconds
+		Loss: 0.002633	Time: 10.61 seconds
+		Loss: 0.003601	Time: 8.05 seconds
+		Loss: 0.005002	Time: 10.76 seconds
+		Loss: 0.004245	Time: 10.67 seconds
+		Loss: 0.003025	Time: 9.00 seconds
+Saving model into ./model_saves/
+	File 55
+		Loss: 0.002861	Time: 10.60 seconds
+		Loss: 0.005218	Time: 10.83 seconds
+		Loss: 0.003797	Time: 10.80 seconds
+		Loss: 0.004072	Time: 10.79 seconds
+		Loss: 0.007005	Time: 10.87 seconds
+		Loss: 0.002954	Time: 10.65 seconds
+		Loss: 0.002624	Time: 10.81 seconds
+		Loss: 0.003760	Time: 10.63 seconds
+		Loss: 0.002657	Time: 10.15 seconds
+		Loss: 0.003637	Time: 6.35 seconds
+		Loss: 0.002750	Time: 6.34 seconds
+		Loss: 0.002314	Time: 6.33 seconds
+		Loss: 0.003466	Time: 6.34 seconds
+		Loss: 0.002670	Time: 6.33 seconds
+		Loss: 0.003134	Time: 6.22 seconds
+Saving model into ./model_saves/
+	File 56
+		Loss: 0.002463	Time: 10.69 seconds
+		Loss: 0.002402	Time: 10.83 seconds
+		Loss: 0.002781	Time: 10.69 seconds
+		Loss: 0.004826	Time: 10.65 seconds
+		Loss: 0.002924	Time: 10.52 seconds
+		Loss: 0.002269	Time: 10.62 seconds
+		Loss: 0.002947	Time: 9.30 seconds
+		Loss: 0.002252	Time: 6.35 seconds
+		Loss: 0.002251	Time: 6.37 seconds
+		Loss: 0.002876	Time: 6.35 seconds
+		Loss: 0.002093	Time: 6.38 seconds
+		Loss: 0.002194	Time: 6.35 seconds
+		Loss: 0.001751	Time: 6.38 seconds
+		Loss: 0.001088	Time: 5.92 seconds
+Saving model into ./model_saves/
+	File 57
+		Loss: 0.005082	Time: 6.41 seconds
+		Loss: 0.011469	Time: 6.32 seconds
+		Loss: 0.002824	Time: 6.33 seconds
+		Loss: 0.005051	Time: 6.32 seconds
+		Loss: 0.002478	Time: 6.33 seconds
+		Loss: 0.004219	Time: 6.34 seconds
+		Loss: 0.003188	Time: 6.34 seconds
+		Loss: 0.003036	Time: 5.46 seconds
+Saving model into ./model_saves/
+	File 58
+		Loss: 0.002013	Time: 6.39 seconds
+		Loss: 0.003239	Time: 6.30 seconds
+		Loss: 0.007434	Time: 6.32 seconds
+		Loss: 0.002637	Time: 6.31 seconds
+		Loss: 0.002508	Time: 6.29 seconds
+		Loss: 0.002170	Time: 6.30 seconds
+		Loss: 0.002160	Time: 6.34 seconds
+		Loss: 0.001787	Time: 6.28 seconds
+		Loss: 0.002634	Time: 6.29 seconds
+		Loss: 0.001821	Time: 5.43 seconds
+Saving model into ./model_saves/
+	File 59
+		Loss: 0.002659	Time: 6.36 seconds
+		Loss: 0.004407	Time: 6.26 seconds
+		Loss: 0.004165	Time: 6.26 seconds
+		Loss: 0.002966	Time: 6.27 seconds
+		Loss: 0.002722	Time: 6.59 seconds
+		Loss: 0.004306	Time: 9.59 seconds
+		Loss: 0.002314	Time: 10.72 seconds
+		Loss: 0.002491	Time: 10.61 seconds
+		Loss: 0.003169	Time: 7.92 seconds
+		Loss: 0.002594	Time: 6.16 seconds
+Saving model into ./model_saves/
+	File 60
+		Loss: 0.002053	Time: 11.05 seconds
+		Loss: 0.002252	Time: 10.72 seconds
+		Loss: 0.003326	Time: 6.34 seconds
+		Loss: 0.005785	Time: 6.28 seconds
+		Loss: 0.003015	Time: 6.28 seconds
+		Loss: 0.002604	Time: 6.35 seconds
+		Loss: 0.001862	Time: 6.30 seconds
+		Loss: 0.002540	Time: 6.31 seconds
+		Loss: 0.002355	Time: 6.58 seconds
+		Loss: 0.002997	Time: 6.31 seconds
+		Loss: 0.002210	Time: 6.29 seconds
+		Loss: 0.002678	Time: 6.29 seconds
+		Loss: 0.002311	Time: 6.29 seconds
+		Loss: 0.002340	Time: 5.78 seconds
+Saving model into ./model_saves/
+	File 61
+		Loss: 0.002573	Time: 6.33 seconds
+		Loss: 0.009531	Time: 6.30 seconds
+		Loss: 0.002332	Time: 6.28 seconds
+		Loss: 0.003187	Time: 6.28 seconds
+		Loss: 0.002388	Time: 6.28 seconds
+		Loss: 0.002491	Time: 6.31 seconds
+		Loss: 0.002267	Time: 6.30 seconds
+		Loss: 0.002075	Time: 6.28 seconds
+		Loss: 0.003571	Time: 6.29 seconds
+		Loss: 0.003915	Time: 6.30 seconds
+		Loss: 0.001949	Time: 5.19 seconds
+Saving model into ./model_saves/
+	File 62
+		Loss: 0.002198	Time: 6.35 seconds
+		Loss: 0.003126	Time: 6.26 seconds
+		Loss: 0.005249	Time: 6.26 seconds
+		Loss: 0.002427	Time: 6.26 seconds
+		Loss: 0.002966	Time: 6.27 seconds
+		Loss: 0.002325	Time: 6.27 seconds
+		Loss: 0.003485	Time: 6.27 seconds
+		Loss: 0.002084	Time: 6.27 seconds
+		Loss: 0.002097	Time: 6.27 seconds
+		Loss: 0.002788	Time: 6.29 seconds
+		Loss: 0.001668	Time: 6.28 seconds
+		Loss: 0.002489	Time: 6.27 seconds
+		Loss: 0.001980	Time: 6.14 seconds
+Saving model into ./model_saves/
+	File 63
+		Loss: 0.001689	Time: 6.37 seconds
+		Loss: 0.004628	Time: 6.28 seconds
+		Loss: 0.002685	Time: 6.29 seconds
+		Loss: 0.003997	Time: 6.37 seconds
+		Loss: 0.002337	Time: 6.36 seconds
+		Loss: 0.001661	Time: 6.28 seconds
+		Loss: 0.002401	Time: 6.28 seconds
+		Loss: 0.003965	Time: 6.30 seconds
+		Loss: 0.002493	Time: 6.30 seconds
+		Loss: 0.002007	Time: 6.29 seconds
+		Loss: 0.002180	Time: 6.29 seconds
+		Loss: 0.002404	Time: 6.29 seconds
+		Loss: 0.002451	Time: 6.29 seconds
+		Loss: 0.001657	Time: 5.61 seconds
+Saving model into ./model_saves/
+	File 64
+		Loss: 0.002055	Time: 6.38 seconds
+		Loss: 0.002597	Time: 6.27 seconds
+		Loss: 0.003069	Time: 6.29 seconds
+		Loss: 0.003108	Time: 6.30 seconds
+		Loss: 0.002513	Time: 6.28 seconds
+		Loss: 0.001918	Time: 6.29 seconds
+		Loss: 0.002367	Time: 6.29 seconds
+		Loss: 0.001593	Time: 6.30 seconds
+		Loss: 0.002794	Time: 6.33 seconds
+		Loss: 0.002001	Time: 6.31 seconds
+		Loss: 0.006021	Time: 6.28 seconds
+		Loss: 0.002801	Time: 6.26 seconds
+		Loss: 0.001186	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 65
+		Loss: 0.003829	Time: 6.39 seconds
+		Loss: 0.003699	Time: 6.35 seconds
+		Loss: 0.003077	Time: 6.33 seconds
+		Loss: 0.002805	Time: 6.34 seconds
+		Loss: 0.001966	Time: 6.40 seconds
+		Loss: 0.001713	Time: 5.30 seconds
+Saving model into ./model_saves/
+	File 66
+		Loss: 0.002505	Time: 6.33 seconds
+		Loss: 0.002386	Time: 6.27 seconds
+		Loss: 0.002188	Time: 6.27 seconds
+		Loss: 0.002504	Time: 6.27 seconds
+		Loss: 0.002354	Time: 6.30 seconds
+		Loss: 0.002304	Time: 6.30 seconds
+		Loss: 0.002590	Time: 6.32 seconds
+		Loss: 0.002058	Time: 6.28 seconds
+		Loss: 0.001748	Time: 6.30 seconds
+		Loss: 0.002040	Time: 6.30 seconds
+		Loss: 0.001884	Time: 6.31 seconds
+		Loss: 0.002820	Time: 6.30 seconds
+		Loss: 0.001825	Time: 6.30 seconds
+		Loss: 0.001641	Time: 5.35 seconds
+Saving model into ./model_saves/
+	File 67
+		Loss: 0.002308	Time: 6.50 seconds
+		Loss: 0.004109	Time: 6.21 seconds
+		Loss: 0.002151	Time: 6.24 seconds
+		Loss: 0.002437	Time: 6.24 seconds
+		Loss: 0.002168	Time: 6.25 seconds
+		Loss: 0.002252	Time: 6.25 seconds
+		Loss: 0.002101	Time: 6.28 seconds
+		Loss: 0.001617	Time: 6.26 seconds
+		Loss: 0.001322	Time: 6.25 seconds
+		Loss: 0.001268	Time: 6.26 seconds
+		Loss: 0.001914	Time: 6.27 seconds
+		Loss: 0.002117	Time: 6.24 seconds
+		Loss: 0.000759	Time: 5.29 seconds
+Saving model into ./model_saves/
+	File 68
+		Loss: 0.001541	Time: 6.33 seconds
+		Loss: 0.001583	Time: 6.27 seconds
+		Loss: 0.004878	Time: 6.25 seconds
+		Loss: 0.001748	Time: 6.25 seconds
+		Loss: 0.001598	Time: 6.27 seconds
+		Loss: 0.001296	Time: 6.25 seconds
+		Loss: 0.001555	Time: 6.24 seconds
+		Loss: 0.001970	Time: 6.25 seconds
+		Loss: 0.001937	Time: 6.26 seconds
+		Loss: 0.001523	Time: 6.27 seconds
+		Loss: 0.001697	Time: 6.26 seconds
+		Loss: 0.001598	Time: 5.19 seconds
+Saving model into ./model_saves/
+	File 69
+		Loss: 0.001557	Time: 6.43 seconds
+		Loss: 0.005975	Time: 6.30 seconds
+		Loss: 0.001347	Time: 6.37 seconds
+		Loss: 0.001573	Time: 6.30 seconds
+		Loss: 0.002212	Time: 7.07 seconds
+		Loss: 0.001528	Time: 6.30 seconds
+		Loss: 0.001893	Time: 6.30 seconds
+		Loss: 0.001986	Time: 6.33 seconds
+		Loss: 0.001391	Time: 6.33 seconds
+		Loss: 0.001311	Time: 6.30 seconds
+		Loss: 0.001867	Time: 5.53 seconds
+Saving model into ./model_saves/
+	File 70
+		Loss: 0.001669	Time: 6.37 seconds
+		Loss: 0.004053	Time: 6.27 seconds
+		Loss: 0.001723	Time: 6.29 seconds
+		Loss: 0.001824	Time: 6.34 seconds
+		Loss: 0.001940	Time: 6.27 seconds
+		Loss: 0.001343	Time: 6.28 seconds
+		Loss: 0.001718	Time: 6.27 seconds
+		Loss: 0.001634	Time: 6.28 seconds
+		Loss: 0.002366	Time: 6.13 seconds
+Saving model into ./model_saves/
+	File 71
+		Loss: 0.001386	Time: 6.39 seconds
+		Loss: 0.002019	Time: 6.24 seconds
+		Loss: 0.001851	Time: 6.26 seconds
+		Loss: 0.001684	Time: 6.26 seconds
+		Loss: 0.001845	Time: 6.30 seconds
+		Loss: 0.001977	Time: 6.28 seconds
+		Loss: 0.002399	Time: 6.27 seconds
+		Loss: 0.001605	Time: 5.83 seconds
+Saving model into ./model_saves/
+	File 72
+		Loss: 0.001542	Time: 6.35 seconds
+		Loss: 0.001579	Time: 6.25 seconds
+		Loss: 0.001779	Time: 6.27 seconds
+		Loss: 0.001708	Time: 6.28 seconds
+		Loss: 0.001463	Time: 6.29 seconds
+		Loss: 0.002592	Time: 6.29 seconds
+		Loss: 0.001660	Time: 6.29 seconds
+		Loss: 0.001296	Time: 5.71 seconds
+Saving model into ./model_saves/
+	File 73
+		Loss: 0.001373	Time: 6.37 seconds
+		Loss: 0.001168	Time: 6.29 seconds
+		Loss: 0.001301	Time: 6.30 seconds
+		Loss: 0.001856	Time: 6.30 seconds
+		Loss: 0.001808	Time: 6.30 seconds
+		Loss: 0.001967	Time: 6.32 seconds
+		Loss: 0.001421	Time: 6.32 seconds
+		Loss: 0.001216	Time: 6.31 seconds
+		Loss: 0.001403	Time: 6.33 seconds
+		Loss: 0.001541	Time: 6.17 seconds
+Saving model into ./model_saves/
+	File 74
+		Loss: 0.002206	Time: 6.32 seconds
+		Loss: 0.002018	Time: 6.26 seconds
+		Loss: 0.001746	Time: 6.27 seconds
+		Loss: 0.001829	Time: 6.27 seconds
+		Loss: 0.002365	Time: 6.27 seconds
+		Loss: 0.001560	Time: 6.29 seconds
+		Loss: 0.001228	Time: 6.29 seconds
+		Loss: 0.001988	Time: 6.29 seconds
+		Loss: 0.001421	Time: 10.55 seconds
+		Loss: 0.001622	Time: 10.61 seconds
+Saving model into ./model_saves/
+	File 75
+		Loss: 0.001410	Time: 10.82 seconds
+		Loss: 0.001727	Time: 10.80 seconds
+		Loss: 0.002187	Time: 10.72 seconds
+		Loss: 0.001346	Time: 9.27 seconds
+Saving model into ./model_saves/
+	File 76
+		Loss: 0.001785	Time: 10.82 seconds
+		Loss: 0.004160	Time: 10.83 seconds
+		Loss: 0.001715	Time: 10.98 seconds
+		Loss: 0.002062	Time: 10.70 seconds
+		Loss: 0.001933	Time: 10.73 seconds
+		Loss: 0.002168	Time: 10.89 seconds
+		Loss: 0.001621	Time: 10.87 seconds
+		Loss: 0.001971	Time: 10.86 seconds
+		Loss: 0.001721	Time: 10.55 seconds
+		Loss: 0.001712	Time: 10.73 seconds
+		Loss: 0.001570	Time: 10.61 seconds
+		Loss: 0.001547	Time: 10.63 seconds
+		Loss: 0.001839	Time: 11.04 seconds
+		Loss: 0.001952	Time: 10.66 seconds
+		Loss: 0.000711	Time: 9.68 seconds
+Saving model into ./model_saves/
+	File 77
+		Loss: 0.001507	Time: 10.68 seconds
+		Loss: 0.001578	Time: 11.02 seconds
+		Loss: 0.001513	Time: 10.68 seconds
+		Loss: 0.002056	Time: 10.47 seconds
+		Loss: 0.001405	Time: 10.88 seconds
+		Loss: 0.001757	Time: 10.55 seconds
+		Loss: 0.001734	Time: 8.41 seconds
+Saving model into ./model_saves/
+	File 78
+		Loss: 0.001141	Time: 10.46 seconds
+		Loss: 0.002307	Time: 10.28 seconds
+		Loss: 0.001287	Time: 10.22 seconds
+		Loss: 0.001601	Time: 7.27 seconds
+		Loss: 0.001472	Time: 10.60 seconds
+		Loss: 0.001559	Time: 10.40 seconds
+		Loss: 0.001726	Time: 10.59 seconds
+		Loss: 0.001047	Time: 10.72 seconds
+		Loss: 0.001030	Time: 10.50 seconds
+		Loss: 0.000876	Time: 10.64 seconds
+		Loss: 0.001445	Time: 6.45 seconds
+		Loss: 0.001372	Time: 8.14 seconds
+		Loss: 0.001726	Time: 10.24 seconds
+Saving model into ./model_saves/
+	File 79
+		Loss: 0.001733	Time: 11.03 seconds
+		Loss: 0.002119	Time: 11.01 seconds
+		Loss: 0.001488	Time: 11.07 seconds
+		Loss: 0.001444	Time: 10.88 seconds
+		Loss: 0.001213	Time: 11.07 seconds
+		Loss: 0.001336	Time: 10.70 seconds
+		Loss: 0.001533	Time: 10.97 seconds
+		Loss: 0.001514	Time: 11.16 seconds
+		Loss: 0.001189	Time: 10.19 seconds
+Saving model into ./model_saves/
+	File 80
+		Loss: 0.001540	Time: 11.12 seconds
+		Loss: 0.001210	Time: 11.22 seconds
+		Loss: 0.001608	Time: 11.15 seconds
+		Loss: 0.001896	Time: 11.11 seconds
+		Loss: 0.001275	Time: 6.39 seconds
+		Loss: 0.001810	Time: 8.48 seconds
+		Loss: 0.001384	Time: 11.09 seconds
+		Loss: 0.000445	Time: 8.77 seconds
+Saving model into ./model_saves/
+	File 81
+		Loss: 0.002372	Time: 11.28 seconds
+		Loss: 0.001832	Time: 10.80 seconds
+		Loss: 0.001727	Time: 11.02 seconds
+		Loss: 0.000967	Time: 10.72 seconds
+		Loss: 0.001535	Time: 10.99 seconds
+		Loss: 0.001599	Time: 9.38 seconds
+Saving model into ./model_saves/
+	File 82
+		Loss: 0.003772	Time: 11.06 seconds
+		Loss: 0.005749	Time: 10.94 seconds
+		Loss: 0.001880	Time: 11.10 seconds
+		Loss: 0.001545	Time: 11.10 seconds
+		Loss: 0.001545	Time: 11.06 seconds
+		Loss: 0.002916	Time: 11.23 seconds
+		Loss: 0.002717	Time: 11.08 seconds
+		Loss: 0.001379	Time: 10.80 seconds
+		Loss: 0.001697	Time: 10.89 seconds
+Saving model into ./model_saves/
+	File 83
+		Loss: 0.001628	Time: 11.14 seconds
+		Loss: 0.002571	Time: 10.90 seconds
+		Loss: 0.001074	Time: 11.08 seconds
+		Loss: 0.001098	Time: 10.96 seconds
+		Loss: 0.001136	Time: 11.26 seconds
+		Loss: 0.001225	Time: 11.25 seconds
+		Loss: 0.001192	Time: 10.96 seconds
+		Loss: 0.001515	Time: 11.29 seconds
+		Loss: 0.001075	Time: 10.77 seconds
+Saving model into ./model_saves/
+	File 84
+		Loss: 0.001306	Time: 11.29 seconds
+		Loss: 0.003410	Time: 11.35 seconds
+		Loss: 0.001360	Time: 11.24 seconds
+		Loss: 0.001225	Time: 11.24 seconds
+		Loss: 0.001295	Time: 11.16 seconds
+		Loss: 0.000921	Time: 11.15 seconds
+		Loss: 0.001140	Time: 11.12 seconds
+		Loss: 0.001085	Time: 11.27 seconds
+		Loss: 0.001432	Time: 9.50 seconds
+Saving model into ./model_saves/
+	File 85
+		Loss: 0.001884	Time: 11.20 seconds
+		Loss: 0.003393	Time: 11.22 seconds
+		Loss: 0.001639	Time: 11.29 seconds
+		Loss: 0.001275	Time: 11.43 seconds
+		Loss: 0.001338	Time: 11.19 seconds
+		Loss: 0.001391	Time: 11.46 seconds
+		Loss: 0.001807	Time: 11.17 seconds
+		Loss: 0.001122	Time: 11.39 seconds
+		Loss: 0.001590	Time: 10.95 seconds
+		Loss: 0.001330	Time: 6.40 seconds
+		Loss: 0.001429	Time: 5.83 seconds
+Saving model into ./model_saves/
+	File 86
+		Loss: 0.002164	Time: 6.42 seconds
+		Loss: 0.001179	Time: 6.31 seconds
+		Loss: 0.001131	Time: 6.33 seconds
+		Loss: 0.001303	Time: 6.32 seconds
+		Loss: 0.001045	Time: 7.18 seconds
+		Loss: 0.000905	Time: 11.54 seconds
+		Loss: 0.001314	Time: 11.56 seconds
+		Loss: 0.001162	Time: 11.57 seconds
+		Loss: 0.001131	Time: 11.57 seconds
+		Loss: 0.000905	Time: 7.24 seconds
+		Loss: 0.000974	Time: 11.90 seconds
+		Loss: 0.001200	Time: 10.46 seconds
+		Loss: 0.000662	Time: 6.87 seconds
+Saving model into ./model_saves/
+	File 87
+		Loss: 0.000912	Time: 6.51 seconds
+		Loss: 0.001121	Time: 6.33 seconds
+		Loss: 0.001095	Time: 7.80 seconds
+		Loss: 0.001513	Time: 10.12 seconds
+		Loss: 0.001381	Time: 8.36 seconds
+		Loss: 0.001461	Time: 10.80 seconds
+		Loss: 0.000937	Time: 10.71 seconds
+		Loss: 0.002275	Time: 10.81 seconds
+		Loss: 0.001037	Time: 9.34 seconds
+Saving model into ./model_saves/
+	File 88
+		Loss: 0.000963	Time: 10.50 seconds
+		Loss: 0.001589	Time: 10.73 seconds
+		Loss: 0.001757	Time: 10.54 seconds
+		Loss: 0.001810	Time: 10.88 seconds
+		Loss: 0.001428	Time: 10.68 seconds
+		Loss: 0.000868	Time: 10.82 seconds
+		Loss: 0.001274	Time: 10.72 seconds
+		Loss: 0.001142	Time: 9.65 seconds
+Saving model into ./model_saves/
+	File 89
+		Loss: 0.000851	Time: 10.75 seconds
+		Loss: 0.001001	Time: 10.68 seconds
+		Loss: 0.001747	Time: 10.69 seconds
+		Loss: 0.000971	Time: 7.20 seconds
+		Loss: 0.001021	Time: 10.71 seconds
+		Loss: 0.000981	Time: 6.31 seconds
+		Loss: 0.000899	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 90
+		Loss: 0.001087	Time: 7.40 seconds
+		Loss: 0.001641	Time: 6.23 seconds
+		Loss: 0.001474	Time: 6.23 seconds
+		Loss: 0.000882	Time: 6.24 seconds
+		Loss: 0.001603	Time: 6.26 seconds
+		Loss: 0.001026	Time: 10.41 seconds
+		Loss: 0.001068	Time: 11.12 seconds
+		Loss: 0.001094	Time: 11.00 seconds
+		Loss: 0.001067	Time: 11.09 seconds
+		Loss: 0.000955	Time: 11.00 seconds
+		Loss: 0.001164	Time: 9.54 seconds
+Saving model into ./model_saves/
+	File 91
+		Loss: 0.001107	Time: 11.03 seconds
+		Loss: 0.001237	Time: 11.10 seconds
+		Loss: 0.003576	Time: 11.28 seconds
+		Loss: 0.000981	Time: 11.28 seconds
+		Loss: 0.001641	Time: 6.34 seconds
+		Loss: 0.001314	Time: 6.28 seconds
+		Loss: 0.001225	Time: 6.34 seconds
+		Loss: 0.001352	Time: 6.83 seconds
+		Loss: 0.000797	Time: 5.91 seconds
+Saving model into ./model_saves/
+	File 92
+		Loss: 0.001112	Time: 6.34 seconds
+		Loss: 0.001296	Time: 6.31 seconds
+		Loss: 0.001518	Time: 6.24 seconds
+		Loss: 0.001540	Time: 6.22 seconds
+		Loss: 0.001177	Time: 11.14 seconds
+		Loss: 0.001011	Time: 9.49 seconds
+Saving model into ./model_saves/
+	File 93
+		Loss: 0.002099	Time: 6.28 seconds
+		Loss: 0.001218	Time: 6.21 seconds
+		Loss: 0.001655	Time: 6.20 seconds
+		Loss: 0.001046	Time: 6.25 seconds
+		Loss: 0.001629	Time: 7.80 seconds
+		Loss: 0.001019	Time: 6.51 seconds
+		Loss: 0.001313	Time: 6.23 seconds
+		Loss: 0.001032	Time: 6.60 seconds
+		Loss: 0.001109	Time: 6.26 seconds
+		Loss: 0.001180	Time: 7.18 seconds
+		Loss: 0.001062	Time: 10.77 seconds
+		Loss: 0.000832	Time: 9.67 seconds
+Saving model into ./model_saves/
+	File 94
+		Loss: 0.000893	Time: 11.02 seconds
+		Loss: 0.001570	Time: 10.96 seconds
+		Loss: 0.001849	Time: 10.88 seconds
+		Loss: 0.000913	Time: 11.11 seconds
+		Loss: 0.001182	Time: 10.93 seconds
+		Loss: 0.001212	Time: 11.22 seconds
+		Loss: 0.001007	Time: 11.04 seconds
+		Loss: 0.001632	Time: 10.97 seconds
+		Loss: 0.001290	Time: 10.74 seconds
+Saving model into ./model_saves/
+	File 95
+		Loss: 0.001087	Time: 11.23 seconds
+		Loss: 0.001199	Time: 10.98 seconds
+		Loss: 0.001415	Time: 11.19 seconds
+		Loss: 0.001191	Time: 10.90 seconds
+		Loss: 0.001431	Time: 10.77 seconds
+		Loss: 0.000868	Time: 10.89 seconds
+		Loss: 0.001243	Time: 10.79 seconds
+		Loss: 0.001212	Time: 10.75 seconds
+		Loss: 0.001086	Time: 10.88 seconds
+		Loss: 0.001128	Time: 10.49 seconds
+		Loss: 0.001062	Time: 9.48 seconds
+Saving model into ./model_saves/
+	File 96
+		Loss: 0.001495	Time: 7.59 seconds
+		Loss: 0.000955	Time: 10.89 seconds
+		Loss: 0.001579	Time: 10.65 seconds
+		Loss: 0.001153	Time: 10.93 seconds
+		Loss: 0.001605	Time: 10.92 seconds
+		Loss: 0.000945	Time: 10.91 seconds
+		Loss: 0.001095	Time: 9.11 seconds
+Saving model into ./model_saves/
+	File 97
+		Loss: 0.001589	Time: 7.97 seconds
+		Loss: 0.001088	Time: 10.44 seconds
+		Loss: 0.000971	Time: 10.68 seconds
+		Loss: 0.001255	Time: 10.65 seconds
+		Loss: 0.000924	Time: 10.46 seconds
+		Loss: 0.000850	Time: 10.66 seconds
+		Loss: 0.001129	Time: 10.73 seconds
+		Loss: 0.000976	Time: 10.67 seconds
+		Loss: 0.000715	Time: 10.79 seconds
+		Loss: 0.001320	Time: 6.77 seconds
+		Loss: 0.001021	Time: 6.29 seconds
+		Loss: 0.000802	Time: 11.10 seconds
+		Loss: 0.001002	Time: 10.20 seconds
+Saving model into ./model_saves/
+	File 98
+		Loss: 0.000882	Time: 11.80 seconds
+		Loss: 0.001079	Time: 11.37 seconds
+		Loss: 0.001301	Time: 11.73 seconds
+		Loss: 0.001137	Time: 11.45 seconds
+		Loss: 0.000944	Time: 8.76 seconds
+		Loss: 0.001064	Time: 10.96 seconds
+		Loss: 0.000766	Time: 10.79 seconds
+		Loss: 0.001091	Time: 11.02 seconds
+		Loss: 0.000806	Time: 9.83 seconds
+Saving model into ./model_saves/
+	File 99
+		Loss: 0.000906	Time: 10.77 seconds
+		Loss: 0.001519	Time: 10.94 seconds
+		Loss: 0.000961	Time: 10.80 seconds
+		Loss: 0.001218	Time: 11.06 seconds
+		Loss: 0.000708	Time: 10.99 seconds
+		Loss: 0.000890	Time: 8.70 seconds
+		Loss: 0.000947	Time: 6.28 seconds
+		Loss: 0.001006	Time: 7.04 seconds
+		Loss: 0.000995	Time: 5.62 seconds
+Saving model into ./model_saves/
+	File 100
+		Loss: 0.001136	Time: 7.41 seconds
+		Loss: 0.001245	Time: 7.34 seconds
+		Loss: 0.000896	Time: 10.88 seconds
+		Loss: 0.001068	Time: 11.02 seconds
+		Loss: 0.001114	Time: 10.92 seconds
+		Loss: 0.000678	Time: 10.83 seconds
+		Loss: 0.000791	Time: 10.79 seconds
+		Loss: 0.001147	Time: 10.08 seconds
+Saving model into ./model_saves/
+	File 101
+		Loss: 0.000778	Time: 10.90 seconds
+		Loss: 0.001317	Time: 10.81 seconds
+		Loss: 0.001338	Time: 10.80 seconds
+		Loss: 0.000834	Time: 10.85 seconds
+		Loss: 0.000689	Time: 11.02 seconds
+		Loss: 0.000918	Time: 10.98 seconds
+		Loss: 0.001023	Time: 6.31 seconds
+Saving model into ./model_saves/
+	File 102
+		Loss: 0.000856	Time: 11.25 seconds
+		Loss: 0.001604	Time: 9.72 seconds
+		Loss: 0.001480	Time: 10.30 seconds
+		Loss: 0.001371	Time: 10.38 seconds
+		Loss: 0.001149	Time: 9.21 seconds
+		Loss: 0.000894	Time: 8.70 seconds
+Saving model into ./model_saves/
+	File 103
+		Loss: 0.000882	Time: 10.42 seconds
+		Loss: 0.001245	Time: 10.44 seconds
+		Loss: 0.001079	Time: 6.38 seconds
+		Loss: 0.000975	Time: 6.29 seconds
+		Loss: 0.000983	Time: 8.31 seconds
+		Loss: 0.001235	Time: 10.44 seconds
+		Loss: 0.000955	Time: 5.44 seconds
+Saving model into ./model_saves/
+	File 104
+		Loss: 0.001080	Time: 9.39 seconds
+		Loss: 0.000957	Time: 10.53 seconds
+		Loss: 0.001239	Time: 10.51 seconds
+		Loss: 0.000964	Time: 10.38 seconds
+		Loss: 0.000855	Time: 10.33 seconds
+		Loss: 0.001198	Time: 10.56 seconds
+		Loss: 0.000732	Time: 10.63 seconds
+Saving model into ./model_saves/
+	File 105
+		Loss: 0.000877	Time: 10.82 seconds
+		Loss: 0.001153	Time: 10.53 seconds
+		Loss: 0.000659	Time: 10.33 seconds
+		Loss: 0.000988	Time: 10.52 seconds
+		Loss: 0.000964	Time: 10.79 seconds
+		Loss: 0.000859	Time: 10.49 seconds
+		Loss: 0.000844	Time: 10.67 seconds
+		Loss: 0.000904	Time: 10.39 seconds
+		Loss: 0.000914	Time: 10.27 seconds
+		Loss: 0.000866	Time: 10.57 seconds
+		Loss: 0.001004	Time: 8.92 seconds
+Saving model into ./model_saves/
+	File 106
+		Loss: 0.000895	Time: 10.52 seconds
+		Loss: 0.001150	Time: 10.28 seconds
+		Loss: 0.000647	Time: 10.60 seconds
+		Loss: 0.000710	Time: 10.82 seconds
+		Loss: 0.000814	Time: 10.48 seconds
+		Loss: 0.000853	Time: 10.45 seconds
+		Loss: 0.001140	Time: 9.00 seconds
+		Loss: 0.000824	Time: 10.67 seconds
+		Loss: 0.000778	Time: 10.87 seconds
+		Loss: 0.000885	Time: 10.70 seconds
+		Loss: 0.000677	Time: 10.89 seconds
+		Loss: 0.000838	Time: 10.69 seconds
+		Loss: 0.000772	Time: 10.83 seconds
+		Loss: 0.000756	Time: 10.97 seconds
+		Loss: 0.000617	Time: 9.47 seconds
+Saving model into ./model_saves/
+	File 107
+		Loss: 0.000636	Time: 10.89 seconds
+		Loss: 0.000709	Time: 10.97 seconds
+		Loss: 0.001401	Time: 10.77 seconds
+		Loss: 0.001164	Time: 10.95 seconds
+		Loss: 0.000722	Time: 9.52 seconds
+		Loss: 0.001176	Time: 11.05 seconds
+		Loss: 0.000870	Time: 10.74 seconds
+		Loss: 0.000922	Time: 9.40 seconds
+Saving model into ./model_saves/
+	File 108
+		Loss: 0.001046	Time: 11.09 seconds
+		Loss: 0.001041	Time: 11.16 seconds
+		Loss: 0.000872	Time: 11.03 seconds
+		Loss: 0.000986	Time: 11.09 seconds
+		Loss: 0.001200	Time: 10.81 seconds
+		Loss: 0.001213	Time: 11.20 seconds
+		Loss: 0.000660	Time: 11.01 seconds
+		Loss: 0.000877	Time: 11.04 seconds
+		Loss: 0.001083	Time: 11.00 seconds
+		Loss: 0.000773	Time: 11.15 seconds
+		Loss: 0.000613	Time: 10.08 seconds
+Saving model into ./model_saves/
+	File 109
+		Loss: 0.001663	Time: 6.56 seconds
+		Loss: 0.000916	Time: 6.30 seconds
+		Loss: 0.000788	Time: 6.29 seconds
+		Loss: 0.000943	Time: 6.31 seconds
+		Loss: 0.001098	Time: 6.31 seconds
+		Loss: 0.000771	Time: 6.29 seconds
+		Loss: 0.000866	Time: 6.33 seconds
+		Loss: 0.000882	Time: 6.37 seconds
+		Loss: 0.000673	Time: 6.31 seconds
+		Loss: 0.000776	Time: 6.34 seconds
+		Loss: 0.000872	Time: 6.31 seconds
+		Loss: 0.000183	Time: 5.08 seconds
+Saving model into ./model_saves/
+	File 110
+		Loss: 0.000831	Time: 6.36 seconds
+		Loss: 0.000525	Time: 6.24 seconds
+		Loss: 0.000885	Time: 6.29 seconds
+		Loss: 0.000793	Time: 6.25 seconds
+		Loss: 0.000666	Time: 6.26 seconds
+		Loss: 0.001307	Time: 6.34 seconds
+		Loss: 0.000852	Time: 6.28 seconds
+		Loss: 0.000642	Time: 6.30 seconds
+		Loss: 0.000632	Time: 6.25 seconds
+		Loss: 0.000652	Time: 6.26 seconds
+		Loss: 0.000241	Time: 5.06 seconds
+Saving model into ./model_saves/
+	File 111
+		Loss: 0.000630	Time: 6.36 seconds
+		Loss: 0.000750	Time: 6.26 seconds
+		Loss: 0.001055	Time: 6.26 seconds
+		Loss: 0.000791	Time: 6.27 seconds
+		Loss: 0.001345	Time: 6.28 seconds
+		Loss: 0.000772	Time: 6.28 seconds
+		Loss: 0.000662	Time: 6.28 seconds
+		Loss: 0.000633	Time: 6.29 seconds
+		Loss: 0.001026	Time: 6.29 seconds
+		Loss: 0.000522	Time: 5.27 seconds
+Saving model into ./model_saves/
+	File 112
+		Loss: 0.000859	Time: 6.41 seconds
+		Loss: 0.000951	Time: 6.28 seconds
+		Loss: 0.000912	Time: 6.30 seconds
+		Loss: 0.000783	Time: 7.46 seconds
+		Loss: 0.000644	Time: 11.09 seconds
+		Loss: 0.000609	Time: 10.09 seconds
+		Loss: 0.001034	Time: 10.59 seconds
+		Loss: 0.000906	Time: 10.67 seconds
+		Loss: 0.000963	Time: 8.69 seconds
+Saving model into ./model_saves/
+	File 113
+		Loss: 0.000609	Time: 10.82 seconds
+		Loss: 0.000614	Time: 10.43 seconds
+		Loss: 0.000960	Time: 10.43 seconds
+		Loss: 0.000572	Time: 10.45 seconds
+		Loss: 0.000914	Time: 10.62 seconds
+		Loss: 0.000936	Time: 10.76 seconds
+		Loss: 0.000600	Time: 10.44 seconds
+		Loss: 0.000815	Time: 10.71 seconds
+		Loss: 0.000780	Time: 10.73 seconds
+Saving model into ./model_saves/
+	File 114
+		Loss: 0.000733	Time: 10.68 seconds
+		Loss: 0.000718	Time: 10.73 seconds
+		Loss: 0.000580	Time: 10.68 seconds
+		Loss: 0.001297	Time: 10.67 seconds
+		Loss: 0.000667	Time: 10.74 seconds
+		Loss: 0.000370	Time: 8.33 seconds
+Saving model into ./model_saves/
+	File 115
+		Loss: 0.000758	Time: 11.06 seconds
+		Loss: 0.000755	Time: 10.79 seconds
+		Loss: 0.001064	Time: 10.63 seconds
+		Loss: 0.000892	Time: 10.49 seconds
+		Loss: 0.000824	Time: 10.68 seconds
+		Loss: 0.000844	Time: 10.44 seconds
+		Loss: 0.000644	Time: 8.34 seconds
+		Loss: 0.001049	Time: 10.48 seconds
+		Loss: 0.000656	Time: 10.53 seconds
+		Loss: 0.000572	Time: 10.51 seconds
+		Loss: 0.000985	Time: 10.79 seconds
+		Loss: 0.000791	Time: 10.77 seconds
+		Loss: 0.000691	Time: 10.52 seconds
+		Loss: 0.000584	Time: 9.18 seconds
+Saving model into ./model_saves/
+	File 116
+		Loss: 0.001086	Time: 10.75 seconds
+		Loss: 0.000936	Time: 10.64 seconds
+		Loss: 0.000771	Time: 7.68 seconds
+		Loss: 0.000916	Time: 10.71 seconds
+		Loss: 0.000910	Time: 10.98 seconds
+		Loss: 0.000655	Time: 10.66 seconds
+		Loss: 0.001138	Time: 10.71 seconds
+		Loss: 0.000957	Time: 9.59 seconds
+Saving model into ./model_saves/
+	File 117
+		Loss: 0.000888	Time: 10.58 seconds
+		Loss: 0.000853	Time: 10.98 seconds
+		Loss: 0.000933	Time: 10.61 seconds
+		Loss: 0.000727	Time: 10.67 seconds
+		Loss: 0.000444	Time: 9.64 seconds
+Saving model into ./model_saves/
+	File 118
+		Loss: 0.000980	Time: 10.55 seconds
+		Loss: 0.000692	Time: 10.59 seconds
+		Loss: 0.000751	Time: 10.68 seconds
+		Loss: 0.000697	Time: 10.55 seconds
+		Loss: 0.000872	Time: 10.65 seconds
+		Loss: 0.000970	Time: 9.15 seconds
+Saving model into ./model_saves/
+	File 119
+		Loss: 0.000585	Time: 10.94 seconds
+		Loss: 0.000918	Time: 10.56 seconds
+		Loss: 0.000945	Time: 10.49 seconds
+		Loss: 0.000576	Time: 6.48 seconds
+		Loss: 0.000826	Time: 7.05 seconds
+		Loss: 0.000774	Time: 6.50 seconds
+		Loss: 0.000760	Time: 6.29 seconds
+Saving model into ./model_saves/
+	File 120
+		Loss: 0.000957	Time: 6.31 seconds
+		Loss: 0.000838	Time: 6.21 seconds
+		Loss: 0.000995	Time: 6.22 seconds
+		Loss: 0.000938	Time: 6.22 seconds
+		Loss: 0.000792	Time: 6.23 seconds
+		Loss: 0.000641	Time: 5.11 seconds
+Saving model into ./model_saves/
+	File 121
+		Loss: 0.000720	Time: 6.29 seconds
+		Loss: 0.000684	Time: 6.17 seconds
+		Loss: 0.000873	Time: 6.18 seconds
+		Loss: 0.001106	Time: 6.19 seconds
+		Loss: 0.000494	Time: 6.19 seconds
+		Loss: 0.000808	Time: 6.19 seconds
+		Loss: 0.000610	Time: 6.14 seconds
+Saving model into ./model_saves/
+	File 122
+		Loss: 0.000509	Time: 6.32 seconds
+		Loss: 0.000935	Time: 6.20 seconds
+		Loss: 0.000710	Time: 6.22 seconds
+		Loss: 0.000562	Time: 6.20 seconds
+		Loss: 0.000839	Time: 6.20 seconds
+		Loss: 0.000805	Time: 6.21 seconds
+		Loss: 0.000771	Time: 6.21 seconds
+		Loss: 0.000443	Time: 5.36 seconds
+Saving model into ./model_saves/
+	File 123
+		Loss: 0.000612	Time: 6.29 seconds
+		Loss: 0.001111	Time: 6.20 seconds
+		Loss: 0.001109	Time: 6.21 seconds
+		Loss: 0.000632	Time: 6.22 seconds
+		Loss: 0.000521	Time: 6.21 seconds
+		Loss: 0.000752	Time: 6.22 seconds
+		Loss: 0.000543	Time: 6.24 seconds
+		Loss: 0.000694	Time: 6.22 seconds
+		Loss: 0.000958	Time: 5.53 seconds
+Saving model into ./model_saves/
+	File 124
+		Loss: 0.000679	Time: 6.29 seconds
+		Loss: 0.000735	Time: 6.21 seconds
+		Loss: 0.000541	Time: 6.22 seconds
+		Loss: 0.000450	Time: 6.22 seconds
+		Loss: 0.000775	Time: 6.22 seconds
+		Loss: 0.000802	Time: 6.23 seconds
+		Loss: 0.000599	Time: 6.11 seconds
+Saving model into ./model_saves/
+	File 125
+		Loss: 0.000519	Time: 6.29 seconds
+		Loss: 0.001291	Time: 6.20 seconds
+		Loss: 0.000687	Time: 6.20 seconds
+		Loss: 0.000831	Time: 6.22 seconds
+		Loss: 0.000739	Time: 6.22 seconds
+		Loss: 0.000696	Time: 6.22 seconds
+		Loss: 0.000469	Time: 6.22 seconds
+		Loss: 0.000842	Time: 6.22 seconds
+		Loss: 0.000608	Time: 6.22 seconds
+		Loss: 0.000608	Time: 6.22 seconds
+		Loss: 0.000583	Time: 6.22 seconds
+		Loss: 0.000703	Time: 6.23 seconds
+		Loss: 0.000623	Time: 5.58 seconds
+Saving model into ./model_saves/
+	File 126
+		Loss: 0.000561	Time: 6.30 seconds
+		Loss: 0.000714	Time: 6.21 seconds
+		Loss: 0.000634	Time: 6.22 seconds
+		Loss: 0.000634	Time: 6.23 seconds
+		Loss: 0.000661	Time: 6.23 seconds
+		Loss: 0.000589	Time: 6.24 seconds
+		Loss: 0.000998	Time: 6.23 seconds
+		Loss: 0.000522	Time: 6.25 seconds
+		Loss: 0.000622	Time: 6.24 seconds
+		Loss: 0.000797	Time: 6.24 seconds
+		Loss: 0.000719	Time: 6.24 seconds
+		Loss: 0.000572	Time: 5.49 seconds
+Saving model into ./model_saves/
+	File 127
+		Loss: 0.000625	Time: 6.29 seconds
+		Loss: 0.000849	Time: 6.22 seconds
+		Loss: 0.001081	Time: 6.22 seconds
+		Loss: 0.000601	Time: 6.23 seconds
+		Loss: 0.000625	Time: 6.23 seconds
+		Loss: 0.000736	Time: 6.23 seconds
+		Loss: 0.000884	Time: 6.25 seconds
+		Loss: 0.000651	Time: 6.25 seconds
+		Loss: 0.000290	Time: 5.12 seconds
+Saving model into ./model_saves/
+	File 128
+		Loss: 0.000641	Time: 6.27 seconds
+		Loss: 0.000627	Time: 6.19 seconds
+		Loss: 0.000630	Time: 6.18 seconds
+		Loss: 0.000632	Time: 6.20 seconds
+		Loss: 0.000920	Time: 6.21 seconds
+		Loss: 0.000398	Time: 6.21 seconds
+		Loss: 0.000518	Time: 6.21 seconds
+		Loss: 0.000500	Time: 6.21 seconds
+		Loss: 0.000617	Time: 6.21 seconds
+		Loss: 0.000600	Time: 6.20 seconds
+		Loss: 0.000565	Time: 6.21 seconds
+		Loss: 0.000633	Time: 6.20 seconds
+		Loss: 0.000718	Time: 5.95 seconds
+Saving model into ./model_saves/
+	File 129
+		Loss: 0.000696	Time: 6.28 seconds
+		Loss: 0.000688	Time: 6.22 seconds
+		Loss: 0.000772	Time: 6.24 seconds
+		Loss: 0.000550	Time: 6.24 seconds
+		Loss: 0.000769	Time: 6.24 seconds
+		Loss: 0.000920	Time: 6.24 seconds
+		Loss: 0.000570	Time: 6.24 seconds
+		Loss: 0.000514	Time: 6.24 seconds
+		Loss: 0.000452	Time: 6.25 seconds
+		Loss: 0.000534	Time: 6.24 seconds
+		Loss: 0.000467	Time: 6.25 seconds
+		Loss: 0.000614	Time: 6.24 seconds
+		Loss: 0.000490	Time: 5.56 seconds
+Saving model into ./model_saves/
+	File 130
+		Loss: 0.001597	Time: 6.30 seconds
+		Loss: 0.000482	Time: 6.18 seconds
+		Loss: 0.000583	Time: 6.19 seconds
+		Loss: 0.000449	Time: 6.20 seconds
+		Loss: 0.000645	Time: 6.20 seconds
+		Loss: 0.000567	Time: 6.22 seconds
+		Loss: 0.000515	Time: 6.20 seconds
+		Loss: 0.000543	Time: 6.21 seconds
+		Loss: 0.000133	Time: 5.18 seconds
+Saving model into ./model_saves/
+	File 131
+		Loss: 0.000484	Time: 6.23 seconds
+		Loss: 0.000906	Time: 6.17 seconds
+		Loss: 0.000600	Time: 6.18 seconds
+		Loss: 0.000460	Time: 6.18 seconds
+		Loss: 0.000556	Time: 6.19 seconds
+		Loss: 0.000675	Time: 6.19 seconds
+		Loss: 0.000674	Time: 6.20 seconds
+		Loss: 0.000597	Time: 6.20 seconds
+		Loss: 0.000414	Time: 6.21 seconds
+		Loss: 0.000417	Time: 6.22 seconds
+		Loss: 0.000529	Time: 5.16 seconds
+Saving model into ./model_saves/
+	File 132
+		Loss: 0.000535	Time: 6.27 seconds
+		Loss: 0.000822	Time: 6.18 seconds
+		Loss: 0.000753	Time: 6.18 seconds
+		Loss: 0.000586	Time: 6.20 seconds
+		Loss: 0.000531	Time: 6.20 seconds
+		Loss: 0.000627	Time: 6.20 seconds
+		Loss: 0.000426	Time: 5.48 seconds
+Saving model into ./model_saves/
+	File 133
+		Loss: 0.000537	Time: 6.36 seconds
+		Loss: 0.000609	Time: 6.18 seconds
+		Loss: 0.000449	Time: 6.17 seconds
+		Loss: 0.000800	Time: 6.18 seconds
+		Loss: 0.000658	Time: 6.19 seconds
+		Loss: 0.000754	Time: 6.19 seconds
+		Loss: 0.000591	Time: 6.19 seconds
+		Loss: 0.000514	Time: 5.24 seconds
+Saving model into ./model_saves/
+	File 134
+		Loss: 0.000487	Time: 6.33 seconds
+		Loss: 0.000534	Time: 6.17 seconds
+		Loss: 0.000615	Time: 6.16 seconds
+		Loss: 0.001106	Time: 6.17 seconds
+		Loss: 0.000672	Time: 6.19 seconds
+		Loss: 0.000829	Time: 6.29 seconds
+		Loss: 0.000478	Time: 6.18 seconds
+		Loss: 0.000692	Time: 6.16 seconds
+		Loss: 0.000459	Time: 6.03 seconds
+Saving model into ./model_saves/
+	File 135
+		Loss: 0.000598	Time: 6.27 seconds
+		Loss: 0.000480	Time: 6.15 seconds
+		Loss: 0.000672	Time: 6.22 seconds
+		Loss: 0.000732	Time: 6.19 seconds
+		Loss: 0.000557	Time: 5.55 seconds
+Saving model into ./model_saves/
+	File 136
+		Loss: 0.000507	Time: 6.17 seconds
+		Loss: 0.000707	Time: 6.13 seconds
+		Loss: 0.000755	Time: 6.13 seconds
+		Loss: 0.000755	Time: 6.14 seconds
+		Loss: 0.000523	Time: 6.15 seconds
+		Loss: 0.000519	Time: 6.16 seconds
+		Loss: 0.000991	Time: 6.18 seconds
+		Loss: 0.000871	Time: 6.16 seconds
+		Loss: 0.000752	Time: 6.16 seconds
+		Loss: 0.000381	Time: 6.15 seconds
+		Loss: 0.000594	Time: 6.15 seconds
+		Loss: 0.000580	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 137
+		Loss: 0.000507	Time: 6.26 seconds
+		Loss: 0.000525	Time: 6.14 seconds
+		Loss: 0.000586	Time: 6.14 seconds
+		Loss: 0.000414	Time: 6.16 seconds
+		Loss: 0.000530	Time: 6.16 seconds
+		Loss: 0.000537	Time: 6.17 seconds
+		Loss: 0.000510	Time: 6.17 seconds
+		Loss: 0.000626	Time: 6.19 seconds
+		Loss: 0.000621	Time: 5.61 seconds
+Saving model into ./model_saves/
+	File 138
+		Loss: 0.000527	Time: 6.16 seconds
+		Loss: 0.000743	Time: 6.14 seconds
+		Loss: 0.000694	Time: 6.15 seconds
+		Loss: 0.000876	Time: 6.16 seconds
+		Loss: 0.000486	Time: 6.16 seconds
+		Loss: 0.000731	Time: 6.37 seconds
+		Loss: 0.000521	Time: 6.16 seconds
+		Loss: 0.000502	Time: 6.16 seconds
+		Loss: 0.000474	Time: 6.17 seconds
+		Loss: 0.000342	Time: 6.15 seconds
+		Loss: 0.000420	Time: 6.15 seconds
+		Loss: 0.000626	Time: 5.39 seconds
+Saving model into ./model_saves/
+	File 139
+		Loss: 0.000378	Time: 6.20 seconds
+		Loss: 0.000551	Time: 6.23 seconds
+		Loss: 0.000692	Time: 6.16 seconds
+		Loss: 0.000721	Time: 6.15 seconds
+		Loss: 0.000545	Time: 6.16 seconds
+		Loss: 0.000484	Time: 6.16 seconds
+		Loss: 0.000541	Time: 6.18 seconds
+		Loss: 0.000688	Time: 6.16 seconds
+		Loss: 0.000428	Time: 5.52 seconds
+Saving model into ./model_saves/
+	File 140
+		Loss: 0.000549	Time: 6.23 seconds
+		Loss: 0.001607	Time: 6.12 seconds
+		Loss: 0.000534	Time: 6.14 seconds
+		Loss: 0.001230	Time: 6.15 seconds
+		Loss: 0.000664	Time: 6.17 seconds
+		Loss: 0.000962	Time: 6.16 seconds
+		Loss: 0.000507	Time: 6.16 seconds
+		Loss: 0.000430	Time: 6.16 seconds
+		Loss: 0.000632	Time: 6.15 seconds
+		Loss: 0.000481	Time: 5.80 seconds
+Saving model into ./model_saves/
+	File 141
+		Loss: 0.000486	Time: 6.23 seconds
+		Loss: 0.000632	Time: 6.14 seconds
+		Loss: 0.000907	Time: 6.15 seconds
+		Loss: 0.000561	Time: 6.16 seconds
+		Loss: 0.000568	Time: 6.16 seconds
+		Loss: 0.000704	Time: 6.17 seconds
+		Loss: 0.000630	Time: 6.19 seconds
+		Loss: 0.000633	Time: 6.18 seconds
+		Loss: 0.000587	Time: 6.13 seconds
+Saving model into ./model_saves/
+	File 142
+		Loss: 0.000443	Time: 6.23 seconds
+		Loss: 0.000855	Time: 6.16 seconds
+		Loss: 0.000620	Time: 6.18 seconds
+		Loss: 0.000461	Time: 6.17 seconds
+		Loss: 0.000826	Time: 6.19 seconds
+		Loss: 0.000484	Time: 6.20 seconds
+		Loss: 0.000364	Time: 5.61 seconds
+Saving model into ./model_saves/
+	File 143
+		Loss: 0.000352	Time: 6.24 seconds
+		Loss: 0.000423	Time: 6.19 seconds
+		Loss: 0.001333	Time: 6.22 seconds
+		Loss: 0.000537	Time: 6.21 seconds
+		Loss: 0.000592	Time: 6.21 seconds
+		Loss: 0.000451	Time: 6.22 seconds
+		Loss: 0.000582	Time: 6.22 seconds
+		Loss: 0.000464	Time: 5.76 seconds
+Saving model into ./model_saves/
+	File 144
+		Loss: 0.000530	Time: 6.25 seconds
+		Loss: 0.000842	Time: 6.15 seconds
+		Loss: 0.000751	Time: 6.17 seconds
+		Loss: 0.000518	Time: 6.18 seconds
+		Loss: 0.000678	Time: 6.18 seconds
+		Loss: 0.000495	Time: 6.19 seconds
+		Loss: 0.000258	Time: 5.14 seconds
+Saving model into ./model_saves/
+	File 145
+		Loss: 0.000474	Time: 6.29 seconds
+		Loss: 0.000404	Time: 6.16 seconds
+		Loss: 0.000647	Time: 6.16 seconds
+		Loss: 0.000646	Time: 6.17 seconds
+		Loss: 0.000416	Time: 6.19 seconds
+		Loss: 0.000392	Time: 6.18 seconds
+		Loss: 0.000478	Time: 6.19 seconds
+		Loss: 0.000398	Time: 6.18 seconds
+		Loss: 0.000538	Time: 6.19 seconds
+		Loss: 0.000146	Time: 5.27 seconds
+Saving model into ./model_saves/
+	File 146
+		Loss: 0.000583	Time: 6.36 seconds
+		Loss: 0.000443	Time: 6.16 seconds
+		Loss: 0.000380	Time: 6.19 seconds
+		Loss: 0.000574	Time: 6.20 seconds
+		Loss: 0.000453	Time: 5.78 seconds
+Saving model into ./model_saves/
+	File 147
+		Loss: 0.000375	Time: 6.38 seconds
+		Loss: 0.000560	Time: 6.23 seconds
+		Loss: 0.000538	Time: 6.22 seconds
+		Loss: 0.000833	Time: 6.22 seconds
+		Loss: 0.000348	Time: 6.23 seconds
+		Loss: 0.000477	Time: 6.24 seconds
+		Loss: 0.000512	Time: 6.24 seconds
+		Loss: 0.000453	Time: 6.23 seconds
+		Loss: 0.000385	Time: 5.45 seconds
+Saving model into ./model_saves/
+	File 148
+		Loss: 0.000469	Time: 6.28 seconds
+		Loss: 0.000546	Time: 6.17 seconds
+		Loss: 0.000935	Time: 6.20 seconds
+		Loss: 0.000577	Time: 6.20 seconds
+		Loss: 0.000474	Time: 6.21 seconds
+		Loss: 0.000492	Time: 6.23 seconds
+		Loss: 0.000716	Time: 6.20 seconds
+		Loss: 0.000451	Time: 6.21 seconds
+		Loss: 0.000419	Time: 6.21 seconds
+		Loss: 0.000567	Time: 6.20 seconds
+		Loss: 0.000549	Time: 5.97 seconds
+Saving model into ./model_saves/
+	File 149
+		Loss: 0.000470	Time: 6.32 seconds
+		Loss: 0.000573	Time: 6.20 seconds
+		Loss: 0.000713	Time: 6.22 seconds
+		Loss: 0.000446	Time: 6.23 seconds
+		Loss: 0.000349	Time: 6.23 seconds
+		Loss: 0.000383	Time: 6.23 seconds
+		Loss: 0.000556	Time: 6.23 seconds
+		Loss: 0.000339	Time: 5.78 seconds
+Saving model into ./model_saves/
+	File 150
+		Loss: 0.000423	Time: 6.27 seconds
+		Loss: 0.000564	Time: 6.18 seconds
+		Loss: 0.000347	Time: 6.19 seconds
+		Loss: 0.000496	Time: 6.21 seconds
+		Loss: 0.000524	Time: 6.21 seconds
+		Loss: 0.000627	Time: 6.20 seconds
+		Loss: 0.000576	Time: 5.51 seconds
+Saving model into ./model_saves/
+	File 151
+		Loss: 0.000485	Time: 6.28 seconds
+		Loss: 0.000410	Time: 6.19 seconds
+		Loss: 0.000803	Time: 6.22 seconds
+		Loss: 0.000378	Time: 6.22 seconds
+		Loss: 0.000508	Time: 6.24 seconds
+		Loss: 0.000358	Time: 6.24 seconds
+		Loss: 0.000383	Time: 6.23 seconds
+		Loss: 0.000381	Time: 6.25 seconds
+		Loss: 0.000407	Time: 6.24 seconds
+		Loss: 0.000507	Time: 5.73 seconds
+Saving model into ./model_saves/
+	File 152
+		Loss: 0.000541	Time: 6.26 seconds
+		Loss: 0.000407	Time: 6.18 seconds
+		Loss: 0.000588	Time: 6.18 seconds
+		Loss: 0.000529	Time: 6.19 seconds
+		Loss: 0.000279	Time: 5.28 seconds
+Saving model into ./model_saves/
+	File 153
+		Loss: 0.000418	Time: 6.29 seconds
+		Loss: 0.000713	Time: 6.17 seconds
+		Loss: 0.000583	Time: 6.19 seconds
+		Loss: 0.000300	Time: 7.46 seconds
+		Loss: 0.000691	Time: 6.25 seconds
+		Loss: 0.000522	Time: 6.21 seconds
+		Loss: 0.000190	Time: 5.10 seconds
+Saving model into ./model_saves/
+	File 154
+		Loss: 0.000330	Time: 6.24 seconds
+		Loss: 0.001319	Time: 6.15 seconds
+		Loss: 0.000488	Time: 6.17 seconds
+		Loss: 0.000491	Time: 6.17 seconds
+		Loss: 0.000385	Time: 6.16 seconds
+		Loss: 0.000626	Time: 6.18 seconds
+		Loss: 0.000400	Time: 6.17 seconds
+		Loss: 0.000623	Time: 6.19 seconds
+		Loss: 0.000370	Time: 6.17 seconds
+		Loss: 0.000441	Time: 6.17 seconds
+		Loss: 0.000332	Time: 6.18 seconds
+		Loss: 0.000538	Time: 6.18 seconds
+		Loss: 0.000493	Time: 5.71 seconds
+Saving model into ./model_saves/
+	File 155
+		Loss: 0.000582	Time: 6.26 seconds
+		Loss: 0.000433	Time: 6.20 seconds
+		Loss: 0.000550	Time: 6.21 seconds
+		Loss: 0.000349	Time: 6.22 seconds
+		Loss: 0.000355	Time: 6.20 seconds
+Saving model into ./model_saves/
+	File 156
+		Loss: 0.000470	Time: 6.25 seconds
+		Loss: 0.000454	Time: 6.18 seconds
+		Loss: 0.000752	Time: 6.20 seconds
+		Loss: 0.000347	Time: 6.20 seconds
+		Loss: 0.000348	Time: 6.20 seconds
+		Loss: 0.000460	Time: 6.20 seconds
+		Loss: 0.000554	Time: 6.20 seconds
+		Loss: 0.000483	Time: 6.20 seconds
+		Loss: 0.000374	Time: 6.22 seconds
+		Loss: 0.000410	Time: 6.22 seconds
+		Loss: 0.000411	Time: 6.21 seconds
+		Loss: 0.000326	Time: 5.23 seconds
+Saving model into ./model_saves/
+	File 157
+		Loss: 0.000655	Time: 6.25 seconds
+		Loss: 0.000439	Time: 6.22 seconds
+		Loss: 0.000367	Time: 6.20 seconds
+		Loss: 0.000340	Time: 6.20 seconds
+		Loss: 0.000477	Time: 6.21 seconds
+		Loss: 0.000414	Time: 6.23 seconds
+		Loss: 0.000336	Time: 6.22 seconds
+		Loss: 0.000332	Time: 6.22 seconds
+		Loss: 0.000367	Time: 6.22 seconds
+		Loss: 0.000383	Time: 6.21 seconds
+		Loss: 0.000457	Time: 5.80 seconds
+Saving model into ./model_saves/
+	File 158
+		Loss: 0.000441	Time: 6.27 seconds
+		Loss: 0.000749	Time: 6.18 seconds
+		Loss: 0.000619	Time: 6.18 seconds
+		Loss: 0.000417	Time: 6.19 seconds
+		Loss: 0.000610	Time: 6.19 seconds
+		Loss: 0.000434	Time: 6.19 seconds
+		Loss: 0.000403	Time: 6.19 seconds
+		Loss: 0.000448	Time: 6.19 seconds
+		Loss: 0.000215	Time: 5.06 seconds
+Saving model into ./model_saves/
+	File 159
+		Loss: 0.000427	Time: 6.24 seconds
+		Loss: 0.000540	Time: 6.16 seconds
+		Loss: 0.000451	Time: 6.17 seconds
+		Loss: 0.000481	Time: 6.17 seconds
+		Loss: 0.000346	Time: 6.17 seconds
+		Loss: 0.000456	Time: 6.19 seconds
+		Loss: 0.000374	Time: 6.18 seconds
+		Loss: 0.000408	Time: 6.20 seconds
+		Loss: 0.000354	Time: 6.22 seconds
+		Loss: 0.000429	Time: 6.05 seconds
+Saving model into ./model_saves/
+	File 160
+		Loss: 0.000609	Time: 6.26 seconds
+		Loss: 0.000545	Time: 6.21 seconds
+		Loss: 0.000396	Time: 6.21 seconds
+		Loss: 0.000595	Time: 6.21 seconds
+		Loss: 0.000334	Time: 6.21 seconds
+		Loss: 0.000441	Time: 6.22 seconds
+		Loss: 0.000593	Time: 6.21 seconds
+		Loss: 0.000527	Time: 6.21 seconds
+		Loss: 0.000476	Time: 6.21 seconds
+		Loss: 0.000425	Time: 6.22 seconds
+		Loss: 0.000549	Time: 6.21 seconds
+		Loss: 0.000366	Time: 6.20 seconds
+		Loss: 0.000506	Time: 6.22 seconds
+		Loss: 0.000587	Time: 6.14 seconds
+		Loss: 0.000540	Time: 6.22 seconds
+Saving model into ./model_saves/
+	File 161
+		Loss: 0.000270	Time: 6.32 seconds
+		Loss: 0.000792	Time: 6.24 seconds
+		Loss: 0.000483	Time: 6.23 seconds
+		Loss: 0.000349	Time: 6.23 seconds
+		Loss: 0.000415	Time: 6.24 seconds
+		Loss: 0.000571	Time: 6.23 seconds
+		Loss: 0.000448	Time: 6.25 seconds
+		Loss: 0.000482	Time: 6.24 seconds
+		Loss: 0.000365	Time: 5.93 seconds
+Saving model into ./model_saves/
+	File 162
+		Loss: 0.000577	Time: 6.29 seconds
+		Loss: 0.000524	Time: 6.22 seconds
+		Loss: 0.000414	Time: 6.22 seconds
+		Loss: 0.000322	Time: 6.23 seconds
+		Loss: 0.000395	Time: 6.24 seconds
+		Loss: 0.000327	Time: 6.13 seconds
+Saving model into ./model_saves/
+	File 163
+		Loss: 0.000431	Time: 6.32 seconds
+		Loss: 0.000284	Time: 6.22 seconds
+		Loss: 0.000324	Time: 6.23 seconds
+		Loss: 0.000444	Time: 6.23 seconds
+		Loss: 0.000560	Time: 6.24 seconds
+		Loss: 0.000334	Time: 6.25 seconds
+		Loss: 0.000344	Time: 6.26 seconds
+		Loss: 0.000556	Time: 6.25 seconds
+		Loss: 0.000284	Time: 6.25 seconds
+		Loss: 0.000332	Time: 6.24 seconds
+		Loss: 0.000183	Time: 5.91 seconds
+Saving model into ./model_saves/
+	File 164
+		Loss: 0.000537	Time: 6.35 seconds
+		Loss: 0.000487	Time: 6.22 seconds
+		Loss: 0.000477	Time: 6.21 seconds
+		Loss: 0.000506	Time: 6.21 seconds
+		Loss: 0.000467	Time: 6.21 seconds
+		Loss: 0.000303	Time: 6.22 seconds
+		Loss: 0.000486	Time: 6.22 seconds
+		Loss: 0.000376	Time: 6.22 seconds
+		Loss: 0.000288	Time: 6.33 seconds
+		Loss: 0.000394	Time: 6.24 seconds
+		Loss: 0.000340	Time: 6.23 seconds
+		Loss: 0.000512	Time: 5.96 seconds
+Saving model into ./model_saves/
+	File 165
+		Loss: 0.000417	Time: 6.29 seconds
+		Loss: 0.000555	Time: 6.22 seconds
+		Loss: 0.000303	Time: 6.20 seconds
+		Loss: 0.000510	Time: 6.22 seconds
+		Loss: 0.000345	Time: 6.25 seconds
+		Loss: 0.000372	Time: 6.23 seconds
+		Loss: 0.000366	Time: 6.23 seconds
+		Loss: 0.000437	Time: 6.23 seconds
+		Loss: 0.000366	Time: 6.24 seconds
+		Loss: 0.000410	Time: 6.23 seconds
+		Loss: 0.000346	Time: 6.23 seconds
+		Loss: 0.000348	Time: 6.23 seconds
+		Loss: 0.000351	Time: 6.24 seconds
+		Loss: 0.000393	Time: 6.24 seconds
+		Loss: 0.000297	Time: 5.59 seconds
+Saving model into ./model_saves/
+	File 166
+		Loss: 0.000601	Time: 6.26 seconds
+		Loss: 0.000673	Time: 6.20 seconds
+		Loss: 0.000601	Time: 6.36 seconds
+		Loss: 0.000454	Time: 6.23 seconds
+		Loss: 0.000528	Time: 6.26 seconds
+		Loss: 0.000168	Time: 5.05 seconds
+Saving model into ./model_saves/
+	File 167
+		Loss: 0.000352	Time: 6.22 seconds
+		Loss: 0.000481	Time: 6.22 seconds
+		Loss: 0.000693	Time: 6.23 seconds
+		Loss: 0.000444	Time: 6.23 seconds
+		Loss: 0.000251	Time: 6.24 seconds
+		Loss: 0.000341	Time: 6.23 seconds
+		Loss: 0.000452	Time: 6.25 seconds
+		Loss: 0.000316	Time: 6.25 seconds
+		Loss: 0.000427	Time: 6.25 seconds
+		Loss: 0.000209	Time: 5.57 seconds
+Saving model into ./model_saves/
+	File 168
+		Loss: 0.000317	Time: 6.28 seconds
+		Loss: 0.000528	Time: 6.17 seconds
+		Loss: 0.000436	Time: 6.18 seconds
+		Loss: 0.000581	Time: 6.19 seconds
+		Loss: 0.000392	Time: 6.18 seconds
+		Loss: 0.000309	Time: 6.20 seconds
+		Loss: 0.000371	Time: 6.19 seconds
+		Loss: 0.000367	Time: 6.19 seconds
+		Loss: 0.000375	Time: 6.19 seconds
+		Loss: 0.000299	Time: 6.19 seconds
+		Loss: 0.000291	Time: 6.19 seconds
+		Loss: 0.000073	Time: 4.99 seconds
+Saving model into ./model_saves/
+	File 169
+		Loss: 0.000279	Time: 6.29 seconds
+		Loss: 0.000491	Time: 6.21 seconds
+		Loss: 0.000569	Time: 6.22 seconds
+		Loss: 0.000451	Time: 6.23 seconds
+		Loss: 0.000376	Time: 6.23 seconds
+		Loss: 0.000365	Time: 6.23 seconds
+		Loss: 0.000337	Time: 5.88 seconds
+Saving model into ./model_saves/
+	File 170
+		Loss: 0.000314	Time: 6.37 seconds
+		Loss: 0.000503	Time: 6.20 seconds
+		Loss: 0.000368	Time: 6.21 seconds
+		Loss: 0.000408	Time: 6.21 seconds
+		Loss: 0.000288	Time: 6.22 seconds
+		Loss: 0.000340	Time: 6.22 seconds
+		Loss: 0.000326	Time: 6.22 seconds
+		Loss: 0.000372	Time: 6.22 seconds
+		Loss: 0.000321	Time: 6.23 seconds
+		Loss: 0.000561	Time: 6.22 seconds
+		Loss: 0.000359	Time: 6.23 seconds
+		Loss: 0.000181	Time: 5.07 seconds
+Saving model into ./model_saves/
+	File 171
+		Loss: 0.000302	Time: 6.26 seconds
+		Loss: 0.000421	Time: 6.22 seconds
+		Loss: 0.000418	Time: 6.22 seconds
+		Loss: 0.000462	Time: 6.23 seconds
+		Loss: 0.000349	Time: 6.29 seconds
+		Loss: 0.000355	Time: 6.23 seconds
+		Loss: 0.000342	Time: 6.24 seconds
+		Loss: 0.000383	Time: 6.23 seconds
+		Loss: 0.000396	Time: 6.23 seconds
+		Loss: 0.000353	Time: 6.23 seconds
+		Loss: 0.000302	Time: 5.37 seconds
+Saving model into ./model_saves/
+	File 172
+		Loss: 0.000362	Time: 6.30 seconds
+		Loss: 0.000325	Time: 6.20 seconds
+		Loss: 0.000436	Time: 6.22 seconds
+		Loss: 0.000319	Time: 6.22 seconds
+		Loss: 0.000353	Time: 6.23 seconds
+		Loss: 0.000318	Time: 6.28 seconds
+		Loss: 0.000284	Time: 6.22 seconds
+		Loss: 0.000341	Time: 6.23 seconds
+		Loss: 0.000334	Time: 5.73 seconds
+Saving model into ./model_saves/
+	File 173
+		Loss: 0.000282	Time: 6.26 seconds
+		Loss: 0.000767	Time: 6.22 seconds
+		Loss: 0.000335	Time: 6.22 seconds
+		Loss: 0.000452	Time: 6.23 seconds
+		Loss: 0.000567	Time: 6.23 seconds
+		Loss: 0.000294	Time: 6.24 seconds
+		Loss: 0.000282	Time: 6.22 seconds
+		Loss: 0.000342	Time: 6.22 seconds
+		Loss: 0.000561	Time: 6.22 seconds
+		Loss: 0.000315	Time: 6.22 seconds
+		Loss: 0.000292	Time: 6.22 seconds
+		Loss: 0.000280	Time: 6.14 seconds
+Saving model into ./model_saves/
+	File 174
+		Loss: 0.000317	Time: 6.29 seconds
+		Loss: 0.000280	Time: 6.21 seconds
+		Loss: 0.000447	Time: 6.20 seconds
+		Loss: 0.000527	Time: 6.20 seconds
+		Loss: 0.000408	Time: 6.22 seconds
+		Loss: 0.000338	Time: 6.22 seconds
+		Loss: 0.000369	Time: 6.23 seconds
+		Loss: 0.000433	Time: 6.21 seconds
+		Loss: 0.000371	Time: 6.23 seconds
+		Loss: 0.000390	Time: 5.20 seconds
+Saving model into ./model_saves/
+	File 175
+		Loss: 0.000438	Time: 6.42 seconds
+		Loss: 0.000609	Time: 6.23 seconds
+		Loss: 0.000514	Time: 6.22 seconds
+		Loss: 0.000330	Time: 6.22 seconds
+		Loss: 0.000393	Time: 6.22 seconds
+		Loss: 0.000485	Time: 6.23 seconds
+		Loss: 0.000323	Time: 6.23 seconds
+		Loss: 0.000352	Time: 6.23 seconds
+		Loss: 0.000541	Time: 6.24 seconds
+		Loss: 0.000282	Time: 6.23 seconds
+		Loss: 0.000267	Time: 6.23 seconds
+		Loss: 0.000279	Time: 6.23 seconds
+		Loss: 0.000378	Time: 6.25 seconds
+		Loss: 0.000312	Time: 5.12 seconds
+Saving model into ./model_saves/
+	File 176
+		Loss: 0.000253	Time: 6.32 seconds
+		Loss: 0.000485	Time: 6.23 seconds
+		Loss: 0.000274	Time: 6.23 seconds
+		Loss: 0.000293	Time: 6.24 seconds
+		Loss: 0.000478	Time: 6.25 seconds
+		Loss: 0.000368	Time: 6.25 seconds
+		Loss: 0.000341	Time: 6.24 seconds
+		Loss: 0.000110	Time: 4.96 seconds
+Saving model into ./model_saves/
+	File 177
+		Loss: 0.000276	Time: 6.33 seconds
+		Loss: 0.000463	Time: 6.20 seconds
+		Loss: 0.000300	Time: 6.20 seconds
+		Loss: 0.000426	Time: 6.20 seconds
+		Loss: 0.000355	Time: 6.22 seconds
+		Loss: 0.000279	Time: 6.21 seconds
+		Loss: 0.000369	Time: 6.21 seconds
+		Loss: 0.000419	Time: 6.22 seconds
+		Loss: 0.000351	Time: 6.21 seconds
+		Loss: 0.000351	Time: 5.27 seconds
+Saving model into ./model_saves/
+	File 178
+		Loss: 0.000347	Time: 6.33 seconds
+		Loss: 0.000505	Time: 6.21 seconds
+		Loss: 0.000335	Time: 6.21 seconds
+		Loss: 0.000463	Time: 6.22 seconds
+		Loss: 0.000281	Time: 6.22 seconds
+		Loss: 0.000308	Time: 6.23 seconds
+		Loss: 0.000401	Time: 6.22 seconds
+		Loss: 0.000368	Time: 6.23 seconds
+		Loss: 0.000367	Time: 6.22 seconds
+		Loss: 0.000177	Time: 5.06 seconds
+Saving model into ./model_saves/
+	File 179
+		Loss: 0.000551	Time: 6.22 seconds
+		Loss: 0.000404	Time: 6.22 seconds
+		Loss: 0.000364	Time: 6.23 seconds
+		Loss: 0.000306	Time: 6.23 seconds
+		Loss: 0.000422	Time: 6.24 seconds
+		Loss: 0.000558	Time: 6.24 seconds
+		Loss: 0.000292	Time: 6.24 seconds
+		Loss: 0.000259	Time: 6.24 seconds
+		Loss: 0.000258	Time: 6.23 seconds
+		Loss: 0.000290	Time: 6.24 seconds
+		Loss: 0.000264	Time: 6.24 seconds
+		Loss: 0.000241	Time: 6.23 seconds
+		Loss: 0.000059	Time: 4.95 seconds
+Saving model into ./model_saves/
+	File 180
+		Loss: 0.000279	Time: 6.36 seconds
+		Loss: 0.000252	Time: 6.20 seconds
+		Loss: 0.000228	Time: 6.21 seconds
+		Loss: 0.000425	Time: 6.22 seconds
+		Loss: 0.000278	Time: 6.22 seconds
+		Loss: 0.000224	Time: 6.23 seconds
+		Loss: 0.000383	Time: 6.23 seconds
+		Loss: 0.000378	Time: 6.22 seconds
+		Loss: 0.000358	Time: 6.22 seconds
+		Loss: 0.000274	Time: 6.22 seconds
+		Loss: 0.000379	Time: 5.71 seconds
+Saving model into ./model_saves/
+	File 181
+		Loss: 0.000516	Time: 6.36 seconds
+		Loss: 0.000309	Time: 6.24 seconds
+		Loss: 0.000336	Time: 6.24 seconds
+		Loss: 0.000291	Time: 6.23 seconds
+		Loss: 0.000441	Time: 6.23 seconds
+		Loss: 0.000272	Time: 6.24 seconds
+		Loss: 0.000388	Time: 6.23 seconds
+		Loss: 0.000216	Time: 5.89 seconds
+Saving model into ./model_saves/
+	File 182
+		Loss: 0.000401	Time: 6.31 seconds
+		Loss: 0.000421	Time: 6.21 seconds
+		Loss: 0.000208	Time: 6.22 seconds
+		Loss: 0.000377	Time: 6.22 seconds
+		Loss: 0.000393	Time: 6.23 seconds
+		Loss: 0.000351	Time: 6.24 seconds
+		Loss: 0.000292	Time: 6.23 seconds
+		Loss: 0.000360	Time: 6.23 seconds
+		Loss: 0.000168	Time: 5.07 seconds
+Saving model into ./model_saves/
+	File 183
+		Loss: 0.000247	Time: 6.27 seconds
+		Loss: 0.000524	Time: 6.25 seconds
+		Loss: 0.000295	Time: 6.24 seconds
+		Loss: 0.000358	Time: 6.25 seconds
+		Loss: 0.000314	Time: 6.26 seconds
+		Loss: 0.000291	Time: 6.26 seconds
+		Loss: 0.000283	Time: 6.25 seconds
+		Loss: 0.000267	Time: 6.25 seconds
+		Loss: 0.000401	Time: 6.25 seconds
+		Loss: 0.000387	Time: 5.64 seconds
+Saving model into ./model_saves/
+	File 184
+		Loss: 0.000314	Time: 6.31 seconds
+		Loss: 0.000364	Time: 6.24 seconds
+		Loss: 0.000470	Time: 6.25 seconds
+		Loss: 0.000328	Time: 6.25 seconds
+		Loss: 0.000278	Time: 6.25 seconds
+		Loss: 0.000255	Time: 6.26 seconds
+		Loss: 0.000247	Time: 6.26 seconds
+		Loss: 0.000236	Time: 6.26 seconds
+		Loss: 0.000353	Time: 6.26 seconds
+		Loss: 0.000257	Time: 5.70 seconds
+Saving model into ./model_saves/
+	File 185
+		Loss: 0.000336	Time: 6.30 seconds
+		Loss: 0.000335	Time: 6.24 seconds
+		Loss: 0.000309	Time: 6.25 seconds
+		Loss: 0.000321	Time: 6.25 seconds
+		Loss: 0.000326	Time: 6.28 seconds
+		Loss: 0.000271	Time: 6.27 seconds
+		Loss: 0.000267	Time: 6.27 seconds
+		Loss: 0.000307	Time: 6.29 seconds
+		Loss: 0.000346	Time: 6.26 seconds
+		Loss: 0.000320	Time: 6.26 seconds
+		Loss: 0.000274	Time: 6.27 seconds
+		Loss: 0.000229	Time: 6.02 seconds
+Saving model into ./model_saves/
+	File 186
+		Loss: 0.000185	Time: 6.32 seconds
+		Loss: 0.000455	Time: 6.20 seconds
+		Loss: 0.000261	Time: 6.22 seconds
+		Loss: 0.000397	Time: 6.22 seconds
+		Loss: 0.000290	Time: 6.22 seconds
+		Loss: 0.000231	Time: 6.24 seconds
+		Loss: 0.000269	Time: 6.23 seconds
+		Loss: 0.000286	Time: 6.22 seconds
+		Loss: 0.000354	Time: 6.22 seconds
+		Loss: 0.000265	Time: 6.21 seconds
+Saving model into ./model_saves/
+	File 187
+		Loss: 0.000328	Time: 6.34 seconds
+		Loss: 0.000384	Time: 6.21 seconds
+		Loss: 0.000248	Time: 6.23 seconds
+		Loss: 0.000390	Time: 6.26 seconds
+		Loss: 0.000352	Time: 6.28 seconds
+		Loss: 0.000258	Time: 6.29 seconds
+		Loss: 0.000372	Time: 6.29 seconds
+		Loss: 0.000237	Time: 6.25 seconds
+		Loss: 0.000202	Time: 5.55 seconds
+Saving model into ./model_saves/
+	File 188
+		Loss: 0.000372	Time: 6.30 seconds
+		Loss: 0.000263	Time: 6.21 seconds
+		Loss: 0.000282	Time: 6.22 seconds
+		Loss: 0.000263	Time: 6.28 seconds
+		Loss: 0.000288	Time: 6.23 seconds
+		Loss: 0.000301	Time: 6.23 seconds
+		Loss: 0.000289	Time: 5.75 seconds
+Saving model into ./model_saves/
+	File 189
+		Loss: 0.000301	Time: 6.30 seconds
+		Loss: 0.000382	Time: 6.20 seconds
+		Loss: 0.000341	Time: 6.22 seconds
+		Loss: 0.000326	Time: 6.23 seconds
+		Loss: 0.000374	Time: 6.23 seconds
+		Loss: 0.000265	Time: 6.23 seconds
+		Loss: 0.000409	Time: 6.23 seconds
+		Loss: 0.000225	Time: 6.23 seconds
+		Loss: 0.000324	Time: 6.23 seconds
+		Loss: 0.000335	Time: 6.22 seconds
+		Loss: 0.000273	Time: 6.22 seconds
+		Loss: 0.000311	Time: 6.23 seconds
+		Loss: 0.000353	Time: 6.23 seconds
+		Loss: 0.000226	Time: 5.30 seconds
+Saving model into ./model_saves/
+	File 190
+		Loss: 0.000287	Time: 6.31 seconds
+		Loss: 0.000370	Time: 6.24 seconds
+		Loss: 0.000367	Time: 6.23 seconds
+		Loss: 0.000366	Time: 6.25 seconds
+		Loss: 0.000264	Time: 6.25 seconds
+		Loss: 0.000379	Time: 6.25 seconds
+		Loss: 0.000345	Time: 6.27 seconds
+		Loss: 0.000266	Time: 5.10 seconds
+Saving model into ./model_saves/
+	File 191
+		Loss: 0.000282	Time: 6.30 seconds
+		Loss: 0.000453	Time: 6.20 seconds
+		Loss: 0.000222	Time: 6.20 seconds
+		Loss: 0.000294	Time: 6.22 seconds
+		Loss: 0.000219	Time: 6.22 seconds
+		Loss: 0.000316	Time: 6.22 seconds
+		Loss: 0.000217	Time: 6.22 seconds
+		Loss: 0.000368	Time: 6.22 seconds
+		Loss: 0.000253	Time: 5.45 seconds
+Saving model into ./model_saves/
+	File 192
+		Loss: 0.000241	Time: 6.31 seconds
+		Loss: 0.000297	Time: 6.20 seconds
+		Loss: 0.000232	Time: 6.20 seconds
+		Loss: 0.000342	Time: 6.22 seconds
+		Loss: 0.000265	Time: 6.22 seconds
+		Loss: 0.000246	Time: 6.22 seconds
+		Loss: 0.000207	Time: 6.23 seconds
+		Loss: 0.000264	Time: 6.22 seconds
+		Loss: 0.000296	Time: 6.24 seconds
+		Loss: 0.000301	Time: 5.38 seconds
+Saving model into ./model_saves/
+	File 193
+		Loss: 0.000301	Time: 6.31 seconds
+		Loss: 0.000374	Time: 6.21 seconds
+		Loss: 0.000287	Time: 6.21 seconds
+		Loss: 0.000363	Time: 6.23 seconds
+		Loss: 0.000272	Time: 6.23 seconds
+		Loss: 0.000389	Time: 6.23 seconds
+		Loss: 0.000331	Time: 6.24 seconds
+		Loss: 0.000232	Time: 6.23 seconds
+		Loss: 0.000327	Time: 6.23 seconds
+		Loss: 0.000326	Time: 6.23 seconds
+		Loss: 0.000234	Time: 5.29 seconds
+Saving model into ./model_saves/
+	File 194
+		Loss: 0.000339	Time: 6.30 seconds
+		Loss: 0.000230	Time: 6.19 seconds
+		Loss: 0.000458	Time: 6.20 seconds
+		Loss: 0.000277	Time: 5.63 seconds
+Saving model into ./model_saves/
+	File 195
+		Loss: 0.000346	Time: 6.40 seconds
+		Loss: 0.000421	Time: 6.22 seconds
+		Loss: 0.000607	Time: 6.23 seconds
+		Loss: 0.000217	Time: 6.23 seconds
+		Loss: 0.000301	Time: 6.24 seconds
+		Loss: 0.000294	Time: 6.28 seconds
+Saving model into ./model_saves/
+	File 196
+		Loss: 0.000397	Time: 6.17 seconds
+		Loss: 0.000373	Time: 6.20 seconds
+		Loss: 0.000532	Time: 6.21 seconds
+		Loss: 0.000207	Time: 6.22 seconds
+		Loss: 0.000237	Time: 6.23 seconds
+		Loss: 0.000262	Time: 6.22 seconds
+		Loss: 0.000271	Time: 6.23 seconds
+		Loss: 0.000297	Time: 6.22 seconds
+		Loss: 0.000260	Time: 6.22 seconds
+		Loss: 0.000248	Time: 6.22 seconds
+		Loss: 0.000233	Time: 5.96 seconds
+Saving model into ./model_saves/
+	File 197
+		Loss: 0.000436	Time: 6.33 seconds
+		Loss: 0.000546	Time: 6.23 seconds
+		Loss: 0.000233	Time: 6.23 seconds
+		Loss: 0.000246	Time: 6.25 seconds
+		Loss: 0.000232	Time: 6.25 seconds
+		Loss: 0.000177	Time: 6.25 seconds
+		Loss: 0.000270	Time: 6.25 seconds
+		Loss: 0.000329	Time: 6.25 seconds
+		Loss: 0.000330	Time: 6.25 seconds
+		Loss: 0.000216	Time: 5.43 seconds
+Saving model into ./model_saves/
+	File 198
+		Loss: 0.000438	Time: 6.27 seconds
+		Loss: 0.000584	Time: 6.20 seconds
+		Loss: 0.000387	Time: 6.21 seconds
+		Loss: 0.000454	Time: 6.21 seconds
+		Loss: 0.000533	Time: 6.22 seconds
+		Loss: 0.000385	Time: 6.21 seconds
+		Loss: 0.000305	Time: 6.20 seconds
+		Loss: 0.000452	Time: 6.21 seconds
+		Loss: 0.000324	Time: 6.21 seconds
+		Loss: 0.000470	Time: 6.21 seconds
+		Loss: 0.000287	Time: 6.21 seconds
+		Loss: 0.000290	Time: 6.21 seconds
+		Loss: 0.000378	Time: 6.21 seconds
+		Loss: 0.000353	Time: 6.21 seconds
+		Loss: 0.000283	Time: 6.15 seconds
+Saving model into ./model_saves/
+	File 199
+		Loss: 0.000256	Time: 6.31 seconds
+		Loss: 0.000258	Time: 6.19 seconds
+		Loss: 0.000400	Time: 6.20 seconds
+		Loss: 0.000245	Time: 6.21 seconds
+		Loss: 0.000304	Time: 6.21 seconds
+		Loss: 0.000209	Time: 5.74 seconds
+Saving model into ./model_saves/
+	File 200
+		Loss: 0.000287	Time: 6.28 seconds
+		Loss: 0.000264	Time: 6.18 seconds
+		Loss: 0.000361	Time: 6.20 seconds
+		Loss: 0.000373	Time: 6.21 seconds
+		Loss: 0.000275	Time: 6.22 seconds
+		Loss: 0.000391	Time: 6.22 seconds
+		Loss: 0.000281	Time: 6.21 seconds
+		Loss: 0.000322	Time: 6.24 seconds
+		Loss: 0.000260	Time: 6.26 seconds
+		Loss: 0.000262	Time: 6.26 seconds
+		Loss: 0.000098	Time: 5.02 seconds
+Saving model into ./model_saves/
+	File 201
+		Loss: 0.000322	Time: 6.31 seconds
+		Loss: 0.000376	Time: 6.21 seconds
+		Loss: 0.000211	Time: 6.20 seconds
+		Loss: 0.000243	Time: 6.21 seconds
+		Loss: 0.000226	Time: 6.22 seconds
+		Loss: 0.000329	Time: 6.21 seconds
+		Loss: 0.000189	Time: 6.22 seconds
+		Loss: 0.000211	Time: 6.21 seconds
+		Loss: 0.000248	Time: 6.21 seconds
+		Loss: 0.000327	Time: 6.21 seconds
+		Loss: 0.000304	Time: 5.51 seconds
+Saving model into ./model_saves/
+	File 202
+		Loss: 0.000232	Time: 6.41 seconds
+		Loss: 0.000523	Time: 6.19 seconds
+		Loss: 0.000313	Time: 6.19 seconds
+		Loss: 0.000336	Time: 6.21 seconds
+		Loss: 0.000350	Time: 6.21 seconds
+		Loss: 0.000252	Time: 6.23 seconds
+		Loss: 0.000373	Time: 6.21 seconds
+		Loss: 0.000241	Time: 6.21 seconds
+		Loss: 0.000222	Time: 6.22 seconds
+		Loss: 0.000268	Time: 6.21 seconds
+		Loss: 0.000068	Time: 5.00 seconds
+Saving model into ./model_saves/
+	File 203
+		Loss: 0.000211	Time: 6.36 seconds
+		Loss: 0.000302	Time: 6.21 seconds
+		Loss: 0.000275	Time: 6.20 seconds
+		Loss: 0.000188	Time: 6.23 seconds
+		Loss: 0.000267	Time: 6.22 seconds
+		Loss: 0.000238	Time: 6.23 seconds
+		Loss: 0.000246	Time: 6.23 seconds
+		Loss: 0.000249	Time: 6.22 seconds
+		Loss: 0.000215	Time: 6.22 seconds
+		Loss: 0.000223	Time: 5.65 seconds
+Saving model into ./model_saves/
+	File 204
+		Loss: 0.000336	Time: 6.27 seconds
+		Loss: 0.000433	Time: 6.18 seconds
+		Loss: 0.000309	Time: 6.18 seconds
+		Loss: 0.000292	Time: 6.20 seconds
+		Loss: 0.000347	Time: 6.21 seconds
+		Loss: 0.000241	Time: 6.21 seconds
+		Loss: 0.000250	Time: 6.20 seconds
+		Loss: 0.000220	Time: 6.20 seconds
+		Loss: 0.000254	Time: 6.20 seconds
+		Loss: 0.000231	Time: 6.22 seconds
+		Loss: 0.000272	Time: 6.20 seconds
+		Loss: 0.000260	Time: 5.24 seconds
+Saving model into ./model_saves/
+	File 205
+		Loss: 0.000205	Time: 6.28 seconds
+		Loss: 0.000372	Time: 6.21 seconds
+		Loss: 0.000211	Time: 6.23 seconds
+		Loss: 0.000216	Time: 6.24 seconds
+		Loss: 0.000269	Time: 6.23 seconds
+		Loss: 0.000221	Time: 6.22 seconds
+		Loss: 0.000172	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 206
+		Loss: 0.000195	Time: 6.24 seconds
+		Loss: 0.000317	Time: 6.21 seconds
+		Loss: 0.000263	Time: 6.22 seconds
+		Loss: 0.000230	Time: 6.22 seconds
+		Loss: 0.000237	Time: 6.23 seconds
+		Loss: 0.000095	Time: 6.23 seconds
+		Loss: 0.000078	Time: 5.48 seconds
+Saving model into ./model_saves/
+	File 207
+		Loss: 0.000304	Time: 6.23 seconds
+		Loss: 0.000673	Time: 6.25 seconds
+		Loss: 0.000247	Time: 6.26 seconds
+		Loss: 0.000377	Time: 6.26 seconds
+		Loss: 0.000243	Time: 6.27 seconds
+		Loss: 0.000251	Time: 6.27 seconds
+		Loss: 0.000303	Time: 6.16 seconds
+Saving model into ./model_saves/
+	File 208
+		Loss: 0.000273	Time: 6.30 seconds
+		Loss: 0.000197	Time: 6.22 seconds
+		Loss: 0.000193	Time: 6.23 seconds
+		Loss: 0.000212	Time: 6.22 seconds
+		Loss: 0.000319	Time: 6.24 seconds
+		Loss: 0.000224	Time: 6.23 seconds
+		Loss: 0.000269	Time: 6.23 seconds
+		Loss: 0.000228	Time: 6.23 seconds
+		Loss: 0.000215	Time: 6.23 seconds
+		Loss: 0.000249	Time: 6.23 seconds
+		Loss: 0.000242	Time: 6.23 seconds
+		Loss: 0.000262	Time: 6.24 seconds
+		Loss: 0.000213	Time: 5.43 seconds
+Saving model into ./model_saves/
+	File 209
+		Loss: 0.000180	Time: 6.29 seconds
+		Loss: 0.000244	Time: 6.21 seconds
+		Loss: 0.000201	Time: 6.21 seconds
+		Loss: 0.000393	Time: 6.21 seconds
+		Loss: 0.000200	Time: 6.21 seconds
+		Loss: 0.000231	Time: 6.23 seconds
+		Loss: 0.000175	Time: 6.23 seconds
+		Loss: 0.000264	Time: 6.23 seconds
+		Loss: 0.000201	Time: 5.89 seconds
+Saving model into ./model_saves/
+	File 210
+		Loss: 0.000312	Time: 6.36 seconds
+		Loss: 0.000228	Time: 6.18 seconds
+		Loss: 0.000184	Time: 6.17 seconds
+		Loss: 0.000379	Time: 6.16 seconds
+		Loss: 0.000204	Time: 6.18 seconds
+		Loss: 0.000232	Time: 6.18 seconds
+		Loss: 0.000206	Time: 5.82 seconds
+Saving model into ./model_saves/
+	File 211
+		Loss: 0.000322	Time: 6.31 seconds
+		Loss: 0.000290	Time: 6.22 seconds
+		Loss: 0.000291	Time: 6.25 seconds
+		Loss: 0.000214	Time: 6.26 seconds
+		Loss: 0.000200	Time: 6.24 seconds
+		Loss: 0.000226	Time: 6.25 seconds
+		Loss: 0.000276	Time: 6.25 seconds
+		Loss: 0.000306	Time: 6.25 seconds
+		Loss: 0.000323	Time: 6.27 seconds
+		Loss: 0.000210	Time: 6.25 seconds
+		Loss: 0.000197	Time: 6.25 seconds
+		Loss: 0.000177	Time: 6.25 seconds
+		Loss: 0.000259	Time: 6.25 seconds
+		Loss: 0.000205	Time: 5.82 seconds
+Saving model into ./model_saves/
+	File 212
+		Loss: 0.000231	Time: 6.30 seconds
+		Loss: 0.000335	Time: 6.21 seconds
+		Loss: 0.000202	Time: 6.21 seconds
+		Loss: 0.000178	Time: 6.24 seconds
+		Loss: 0.000302	Time: 6.22 seconds
+		Loss: 0.000211	Time: 6.24 seconds
+		Loss: 0.000186	Time: 6.17 seconds
+Saving model into ./model_saves/
+	File 213
+		Loss: 0.000250	Time: 6.31 seconds
+		Loss: 0.000308	Time: 6.22 seconds
+		Loss: 0.000248	Time: 6.21 seconds
+		Loss: 0.000209	Time: 6.22 seconds
+		Loss: 0.000285	Time: 6.23 seconds
+		Loss: 0.000340	Time: 6.22 seconds
+		Loss: 0.000183	Time: 6.23 seconds
+		Loss: 0.000280	Time: 6.22 seconds
+		Loss: 0.000234	Time: 6.22 seconds
+		Loss: 0.000215	Time: 6.24 seconds
+		Loss: 0.000196	Time: 6.22 seconds
+		Loss: 0.000220	Time: 5.75 seconds
+Saving model into ./model_saves/
+	File 214
+		Loss: 0.000346	Time: 6.29 seconds
+		Loss: 0.000235	Time: 6.17 seconds
+		Loss: 0.000277	Time: 6.16 seconds
+		Loss: 0.000190	Time: 6.17 seconds
+		Loss: 0.000298	Time: 6.18 seconds
+		Loss: 0.000252	Time: 6.19 seconds
+		Loss: 0.000197	Time: 6.18 seconds
+Saving model into ./model_saves/
+	File 215
+		Loss: 0.000336	Time: 6.32 seconds
+		Loss: 0.000222	Time: 6.20 seconds
+		Loss: 0.000262	Time: 6.21 seconds
+		Loss: 0.000260	Time: 6.21 seconds
+		Loss: 0.000203	Time: 6.23 seconds
+		Loss: 0.000269	Time: 6.23 seconds
+		Loss: 0.000259	Time: 6.24 seconds
+		Loss: 0.000284	Time: 6.23 seconds
+		Loss: 0.000268	Time: 6.23 seconds
+		Loss: 0.000261	Time: 6.23 seconds
+		Loss: 0.000194	Time: 6.23 seconds
+		Loss: 0.000151	Time: 5.10 seconds
+Saving model into ./model_saves/
+	File 216
+		Loss: 0.000295	Time: 6.33 seconds
+		Loss: 0.000267	Time: 6.20 seconds
+		Loss: 0.000493	Time: 6.23 seconds
+		Loss: 0.000170	Time: 6.21 seconds
+		Loss: 0.000177	Time: 6.22 seconds
+		Loss: 0.000176	Time: 6.23 seconds
+		Loss: 0.000294	Time: 6.22 seconds
+		Loss: 0.000299	Time: 6.23 seconds
+		Loss: 0.000217	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 217
+		Loss: 0.000330	Time: 6.29 seconds
+		Loss: 0.000373	Time: 6.17 seconds
+		Loss: 0.000274	Time: 6.18 seconds
+		Loss: 0.000306	Time: 6.19 seconds
+		Loss: 0.000174	Time: 6.21 seconds
+		Loss: 0.000286	Time: 6.19 seconds
+		Loss: 0.000217	Time: 6.20 seconds
+		Loss: 0.000277	Time: 6.22 seconds
+		Loss: 0.000265	Time: 5.48 seconds
+Saving model into ./model_saves/
+	File 218
+		Loss: 0.000198	Time: 6.31 seconds
+		Loss: 0.000269	Time: 6.22 seconds
+		Loss: 0.000173	Time: 6.24 seconds
+		Loss: 0.000235	Time: 6.23 seconds
+		Loss: 0.000158	Time: 6.25 seconds
+		Loss: 0.000247	Time: 6.25 seconds
+		Loss: 0.000153	Time: 6.25 seconds
+		Loss: 0.000220	Time: 6.25 seconds
+		Loss: 0.000144	Time: 6.25 seconds
+		Loss: 0.000162	Time: 6.25 seconds
+		Loss: 0.000204	Time: 6.00 seconds
+Saving model into ./model_saves/
+	File 219
+		Loss: 0.000248	Time: 6.29 seconds
+		Loss: 0.000229	Time: 6.19 seconds
+		Loss: 0.000208	Time: 6.19 seconds
+		Loss: 0.000199	Time: 6.22 seconds
+		Loss: 0.000225	Time: 6.21 seconds
+		Loss: 0.000193	Time: 6.22 seconds
+		Loss: 0.000202	Time: 6.21 seconds
+		Loss: 0.000200	Time: 6.22 seconds
+		Loss: 0.000283	Time: 6.22 seconds
+		Loss: 0.000190	Time: 6.23 seconds
+		Loss: 0.000213	Time: 6.20 seconds
+		Loss: 0.000232	Time: 6.20 seconds
+		Loss: 0.000262	Time: 6.22 seconds
+		Loss: 0.000278	Time: 5.60 seconds
+Saving model into ./model_saves/
+	File 220
+		Loss: 0.000159	Time: 6.32 seconds
+		Loss: 0.000333	Time: 6.22 seconds
+		Loss: 0.000189	Time: 6.24 seconds
+		Loss: 0.000288	Time: 6.25 seconds
+		Loss: 0.000144	Time: 6.26 seconds
+		Loss: 0.000260	Time: 6.27 seconds
+		Loss: 0.000219	Time: 6.26 seconds
+		Loss: 0.000246	Time: 6.25 seconds
+		Loss: 0.000150	Time: 6.13 seconds
+Saving model into ./model_saves/
+	File 221
+		Loss: 0.000337	Time: 6.17 seconds
+		Loss: 0.000208	Time: 6.22 seconds
+		Loss: 0.000184	Time: 6.24 seconds
+		Loss: 0.000216	Time: 6.23 seconds
+		Loss: 0.000268	Time: 6.24 seconds
+		Loss: 0.000187	Time: 6.24 seconds
+		Loss: 0.000256	Time: 6.27 seconds
+		Loss: 0.000182	Time: 6.25 seconds
+		Loss: 0.000282	Time: 6.24 seconds
+		Loss: 0.000198	Time: 6.26 seconds
+		Loss: 0.000201	Time: 6.26 seconds
+		Loss: 0.000233	Time: 6.26 seconds
+		Loss: 0.000190	Time: 6.25 seconds
+		Loss: 0.000295	Time: 5.97 seconds
+Saving model into ./model_saves/
+	File 222
+		Loss: 0.000195	Time: 6.36 seconds
+		Loss: 0.000323	Time: 6.22 seconds
+		Loss: 0.000371	Time: 6.21 seconds
+		Loss: 0.000263	Time: 6.24 seconds
+		Loss: 0.000193	Time: 6.24 seconds
+		Loss: 0.000169	Time: 5.55 seconds
+Saving model into ./model_saves/
+	File 223
+		Loss: 0.000173	Time: 6.33 seconds
+		Loss: 0.000266	Time: 6.22 seconds
+		Loss: 0.000155	Time: 6.22 seconds
+		Loss: 0.000238	Time: 6.24 seconds
+		Loss: 0.000166	Time: 6.26 seconds
+		Loss: 0.000151	Time: 6.26 seconds
+		Loss: 0.000214	Time: 6.25 seconds
+		Loss: 0.000211	Time: 6.26 seconds
+		Loss: 0.000190	Time: 6.16 seconds
+Saving model into ./model_saves/
+	File 224
+		Loss: 0.000197	Time: 6.30 seconds
+		Loss: 0.000279	Time: 6.23 seconds
+		Loss: 0.000214	Time: 6.22 seconds
+		Loss: 0.000188	Time: 6.23 seconds
+		Loss: 0.000201	Time: 6.25 seconds
+		Loss: 0.000184	Time: 6.24 seconds
+		Loss: 0.000227	Time: 6.25 seconds
+		Loss: 0.000226	Time: 6.24 seconds
+		Loss: 0.000210	Time: 5.88 seconds
+Saving model into ./model_saves/
+	File 225
+		Loss: 0.000268	Time: 6.33 seconds
+		Loss: 0.000331	Time: 6.25 seconds
+		Loss: 0.000394	Time: 6.24 seconds
+		Loss: 0.000202	Time: 6.24 seconds
+		Loss: 0.000155	Time: 6.25 seconds
+		Loss: 0.000277	Time: 6.26 seconds
+		Loss: 0.000286	Time: 6.25 seconds
+		Loss: 0.000275	Time: 6.25 seconds
+		Loss: 0.000190	Time: 5.96 seconds
+Saving model into ./model_saves/
+	File 226
+		Loss: 0.000280	Time: 6.31 seconds
+		Loss: 0.000168	Time: 6.18 seconds
+		Loss: 0.000209	Time: 6.19 seconds
+		Loss: 0.000250	Time: 6.19 seconds
+		Loss: 0.000269	Time: 6.20 seconds
+		Loss: 0.000225	Time: 6.21 seconds
+		Loss: 0.000270	Time: 6.22 seconds
+		Loss: 0.000196	Time: 6.21 seconds
+		Loss: 0.000227	Time: 6.21 seconds
+		Loss: 0.000194	Time: 6.20 seconds
+		Loss: 0.000191	Time: 5.38 seconds
+Saving model into ./model_saves/
+	File 227
+		Loss: 0.000232	Time: 6.35 seconds
+		Loss: 0.000171	Time: 6.40 seconds
+		Loss: 0.000235	Time: 6.28 seconds
+		Loss: 0.000210	Time: 6.26 seconds
+		Loss: 0.000166	Time: 6.26 seconds
+		Loss: 0.000176	Time: 6.14 seconds
+Saving model into ./model_saves/
+	File 228
+		Loss: 0.000190	Time: 6.28 seconds
+		Loss: 0.000205	Time: 6.20 seconds
+		Loss: 0.000229	Time: 6.20 seconds
+		Loss: 0.000233	Time: 6.21 seconds
+		Loss: 0.000262	Time: 6.21 seconds
+		Loss: 0.000191	Time: 6.22 seconds
+		Loss: 0.000179	Time: 6.22 seconds
+		Loss: 0.000169	Time: 6.23 seconds
+		Loss: 0.000162	Time: 6.22 seconds
+		Loss: 0.000233	Time: 6.23 seconds
+		Loss: 0.000151	Time: 5.64 seconds
+Saving model into ./model_saves/
+	File 229
+		Loss: 0.000213	Time: 6.31 seconds
+		Loss: 0.000245	Time: 6.22 seconds
+		Loss: 0.000161	Time: 6.22 seconds
+		Loss: 0.000231	Time: 6.23 seconds
+		Loss: 0.000201	Time: 6.24 seconds
+		Loss: 0.000194	Time: 6.28 seconds
+		Loss: 0.000158	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 230
+		Loss: 0.000163	Time: 6.33 seconds
+		Loss: 0.000370	Time: 6.21 seconds
+		Loss: 0.000206	Time: 6.22 seconds
+		Loss: 0.000228	Time: 6.23 seconds
+		Loss: 0.000360	Time: 6.23 seconds
+		Loss: 0.000350	Time: 6.23 seconds
+		Loss: 0.000212	Time: 6.24 seconds
+		Loss: 0.000285	Time: 6.23 seconds
+		Loss: 0.000295	Time: 6.24 seconds
+		Loss: 0.000077	Time: 5.00 seconds
+Saving model into ./model_saves/
+	File 231
+		Loss: 0.000201	Time: 6.33 seconds
+		Loss: 0.000235	Time: 6.22 seconds
+		Loss: 0.000247	Time: 6.23 seconds
+		Loss: 0.000212	Time: 6.24 seconds
+		Loss: 0.000199	Time: 6.25 seconds
+		Loss: 0.000294	Time: 6.23 seconds
+		Loss: 0.000216	Time: 6.23 seconds
+		Loss: 0.000251	Time: 6.23 seconds
+		Loss: 0.000233	Time: 6.23 seconds
+		Loss: 0.000227	Time: 6.23 seconds
+		Loss: 0.000154	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 232
+		Loss: 0.000206	Time: 6.31 seconds
+		Loss: 0.000182	Time: 6.22 seconds
+		Loss: 0.000212	Time: 6.27 seconds
+		Loss: 0.000234	Time: 6.23 seconds
+		Loss: 0.000157	Time: 6.23 seconds
+		Loss: 0.000291	Time: 6.25 seconds
+		Loss: 0.000172	Time: 6.24 seconds
+		Loss: 0.000135	Time: 5.63 seconds
+Saving model into ./model_saves/
+	File 233
+		Loss: 0.000188	Time: 6.32 seconds
+		Loss: 0.000227	Time: 6.24 seconds
+		Loss: 0.000387	Time: 6.24 seconds
+		Loss: 0.000156	Time: 6.25 seconds
+		Loss: 0.000161	Time: 6.24 seconds
+		Loss: 0.000214	Time: 6.25 seconds
+		Loss: 0.000179	Time: 6.25 seconds
+		Loss: 0.000261	Time: 6.26 seconds
+		Loss: 0.000209	Time: 6.27 seconds
+		Loss: 0.000176	Time: 6.27 seconds
+		Loss: 0.000215	Time: 6.26 seconds
+		Loss: 0.000215	Time: 6.15 seconds
+Saving model into ./model_saves/
+	File 234
+		Loss: 0.000232	Time: 6.32 seconds
+		Loss: 0.000187	Time: 6.25 seconds
+		Loss: 0.000176	Time: 6.25 seconds
+		Loss: 0.000159	Time: 6.26 seconds
+		Loss: 0.000246	Time: 6.29 seconds
+		Loss: 0.000147	Time: 6.27 seconds
+		Loss: 0.000155	Time: 6.28 seconds
+		Loss: 0.000171	Time: 6.28 seconds
+		Loss: 0.000183	Time: 6.02 seconds
+Saving model into ./model_saves/
+	File 235
+		Loss: 0.000187	Time: 6.38 seconds
+		Loss: 0.000259	Time: 6.23 seconds
+		Loss: 0.000356	Time: 6.24 seconds
+		Loss: 0.000170	Time: 6.24 seconds
+		Loss: 0.000193	Time: 6.25 seconds
+		Loss: 0.000189	Time: 6.24 seconds
+		Loss: 0.000239	Time: 6.25 seconds
+		Loss: 0.000235	Time: 6.19 seconds
+Saving model into ./model_saves/
+	File 236
+		Loss: 0.000195	Time: 6.34 seconds
+		Loss: 0.000224	Time: 6.22 seconds
+		Loss: 0.000131	Time: 6.25 seconds
+		Loss: 0.000179	Time: 6.23 seconds
+		Loss: 0.000172	Time: 6.24 seconds
+		Loss: 0.000184	Time: 6.24 seconds
+		Loss: 0.000217	Time: 6.25 seconds
+		Loss: 0.000171	Time: 6.25 seconds
+		Loss: 0.000164	Time: 6.26 seconds
+		Loss: 0.000192	Time: 6.24 seconds
+		Loss: 0.000143	Time: 6.24 seconds
+		Loss: 0.000148	Time: 6.24 seconds
+		Loss: 0.000152	Time: 5.65 seconds
+Saving model into ./model_saves/
+	File 237
+		Loss: 0.000235	Time: 6.36 seconds
+		Loss: 0.000161	Time: 6.23 seconds
+		Loss: 0.000189	Time: 6.24 seconds
+		Loss: 0.000189	Time: 6.23 seconds
+		Loss: 0.000146	Time: 6.23 seconds
+		Loss: 0.000253	Time: 6.23 seconds
+		Loss: 0.000175	Time: 6.38 seconds
+		Loss: 0.000203	Time: 6.23 seconds
+		Loss: 0.000130	Time: 5.22 seconds
+Saving model into ./model_saves/
+	File 238
+		Loss: 0.000158	Time: 6.38 seconds
+		Loss: 0.000268	Time: 6.23 seconds
+		Loss: 0.000190	Time: 6.24 seconds
+		Loss: 0.000170	Time: 6.35 seconds
+		Loss: 0.000213	Time: 6.24 seconds
+		Loss: 0.000190	Time: 6.24 seconds
+		Loss: 0.000171	Time: 6.26 seconds
+		Loss: 0.000127	Time: 5.13 seconds
+Saving model into ./model_saves/
+	File 239
+		Loss: 0.000188	Time: 6.34 seconds
+		Loss: 0.000207	Time: 6.21 seconds
+		Loss: 0.000156	Time: 6.21 seconds
+		Loss: 0.000232	Time: 6.22 seconds
+		Loss: 0.000160	Time: 6.23 seconds
+		Loss: 0.000177	Time: 5.88 seconds
+Saving model into ./model_saves/
+	File 240
+		Loss: 0.000212	Time: 6.31 seconds
+		Loss: 0.000540	Time: 6.22 seconds
+		Loss: 0.000140	Time: 6.21 seconds
+		Loss: 0.000290	Time: 6.28 seconds
+		Loss: 0.000173	Time: 6.23 seconds
+		Loss: 0.000294	Time: 6.25 seconds
+		Loss: 0.000203	Time: 6.24 seconds
+		Loss: 0.000181	Time: 6.23 seconds
+		Loss: 0.000191	Time: 6.23 seconds
+		Loss: 0.000229	Time: 6.26 seconds
+		Loss: 0.000206	Time: 6.23 seconds
+		Loss: 0.000201	Time: 6.23 seconds
+		Loss: 0.000085	Time: 5.32 seconds
+Saving model into ./model_saves/
+	File 241
+		Loss: 0.000305	Time: 6.31 seconds
+		Loss: 0.000159	Time: 6.23 seconds
+		Loss: 0.000215	Time: 6.26 seconds
+		Loss: 0.000237	Time: 6.24 seconds
+		Loss: 0.000180	Time: 6.24 seconds
+		Loss: 0.000186	Time: 6.04 seconds
+Saving model into ./model_saves/
+	File 242
+		Loss: 0.000129	Time: 6.37 seconds
+		Loss: 0.000239	Time: 6.23 seconds
+		Loss: 0.000160	Time: 6.23 seconds
+		Loss: 0.000276	Time: 6.25 seconds
+		Loss: 0.000167	Time: 6.25 seconds
+		Loss: 0.000177	Time: 6.25 seconds
+		Loss: 0.000159	Time: 6.26 seconds
+		Loss: 0.000125	Time: 6.25 seconds
+		Loss: 0.000158	Time: 6.25 seconds
+		Loss: 0.000168	Time: 6.05 seconds
+Saving model into ./model_saves/
+	File 243
+		Loss: 0.000173	Time: 6.30 seconds
+		Loss: 0.000206	Time: 6.26 seconds
+		Loss: 0.000233	Time: 6.27 seconds
+		Loss: 0.000214	Time: 6.26 seconds
+		Loss: 0.000220	Time: 6.26 seconds
+		Loss: 0.000165	Time: 6.28 seconds
+		Loss: 0.000213	Time: 6.28 seconds
+		Loss: 0.000187	Time: 6.27 seconds
+		Loss: 0.000192	Time: 6.36 seconds
+Saving model into ./model_saves/
+	File 244
+		Loss: 0.000134	Time: 6.39 seconds
+		Loss: 0.000231	Time: 6.23 seconds
+		Loss: 0.000154	Time: 6.22 seconds
+		Loss: 0.000165	Time: 6.21 seconds
+		Loss: 0.000204	Time: 6.24 seconds
+		Loss: 0.000176	Time: 6.22 seconds
+		Loss: 0.000135	Time: 6.23 seconds
+		Loss: 0.000141	Time: 5.17 seconds
+Saving model into ./model_saves/
+	File 245
+		Loss: 0.000141	Time: 6.31 seconds
+		Loss: 0.000144	Time: 6.26 seconds
+		Loss: 0.000251	Time: 6.27 seconds
+		Loss: 0.000153	Time: 6.28 seconds
+		Loss: 0.000177	Time: 6.28 seconds
+		Loss: 0.000137	Time: 6.32 seconds
+		Loss: 0.000159	Time: 6.27 seconds
+		Loss: 0.000200	Time: 5.76 seconds
+Saving model into ./model_saves/
+	File 246
+		Loss: 0.000191	Time: 6.40 seconds
+		Loss: 0.000120	Time: 6.29 seconds
+		Loss: 0.000160	Time: 6.28 seconds
+		Loss: 0.000130	Time: 6.29 seconds
+		Loss: 0.000180	Time: 6.30 seconds
+		Loss: 0.000179	Time: 6.28 seconds
+		Loss: 0.000176	Time: 5.42 seconds
+Saving model into ./model_saves/
+	File 247
+		Loss: 0.000150	Time: 6.31 seconds
+		Loss: 0.000255	Time: 6.25 seconds
+		Loss: 0.000166	Time: 6.27 seconds
+		Loss: 0.000136	Time: 6.26 seconds
+		Loss: 0.000158	Time: 6.26 seconds
+		Loss: 0.000133	Time: 6.26 seconds
+		Loss: 0.000194	Time: 6.27 seconds
+		Loss: 0.000188	Time: 6.27 seconds
+		Loss: 0.000186	Time: 5.76 seconds
+Saving model into ./model_saves/
+	File 248
+		Loss: 0.000166	Time: 6.32 seconds
+		Loss: 0.000320	Time: 6.26 seconds
+		Loss: 0.000168	Time: 6.27 seconds
+		Loss: 0.000165	Time: 6.27 seconds
+		Loss: 0.000197	Time: 6.26 seconds
+		Loss: 0.000174	Time: 6.28 seconds
+		Loss: 0.000159	Time: 5.13 seconds
+Saving model into ./model_saves/
+	File 249
+		Loss: 0.000115	Time: 6.29 seconds
+		Loss: 0.000201	Time: 6.23 seconds
+		Loss: 0.000264	Time: 6.24 seconds
+		Loss: 0.000192	Time: 6.24 seconds
+		Loss: 0.000145	Time: 6.25 seconds
+		Loss: 0.000166	Time: 6.25 seconds
+		Loss: 0.000198	Time: 6.26 seconds
+		Loss: 0.000253	Time: 6.26 seconds
+		Loss: 0.000148	Time: 6.25 seconds
+		Loss: 0.000206	Time: 6.25 seconds
+		Loss: 0.000155	Time: 6.26 seconds
+		Loss: 0.000155	Time: 5.45 seconds
+Saving model into ./model_saves/
+	File 250
+		Loss: 0.000131	Time: 6.28 seconds
+		Loss: 0.000277	Time: 6.22 seconds
+		Loss: 0.000242	Time: 6.24 seconds
+		Loss: 0.000178	Time: 6.24 seconds
+		Loss: 0.000159	Time: 6.25 seconds
+		Loss: 0.000257	Time: 6.25 seconds
+		Loss: 0.000061	Time: 6.51 seconds
+Saving model into ./model_saves/
+	File 251
+		Loss: 0.000109	Time: 6.31 seconds
+		Loss: 0.000308	Time: 6.18 seconds
+		Loss: 0.000155	Time: 6.28 seconds
+		Loss: 0.000151	Time: 6.20 seconds
+		Loss: 0.000137	Time: 6.22 seconds
+		Loss: 0.000171	Time: 6.22 seconds
+		Loss: 0.000146	Time: 6.23 seconds
+		Loss: 0.000132	Time: 6.22 seconds
+		Loss: 0.000198	Time: 6.60 seconds
+		Loss: 0.000135	Time: 5.64 seconds
+Saving model into ./model_saves/
+	File 252
+		Loss: 0.000170	Time: 6.34 seconds
+		Loss: 0.000219	Time: 6.25 seconds
+		Loss: 0.000186	Time: 6.26 seconds
+		Loss: 0.000152	Time: 6.27 seconds
+		Loss: 0.000158	Time: 6.26 seconds
+		Loss: 0.000174	Time: 6.27 seconds
+		Loss: 0.000164	Time: 6.28 seconds
+		Loss: 0.000158	Time: 6.28 seconds
+		Loss: 0.000123	Time: 6.26 seconds
+		Loss: 0.000167	Time: 6.26 seconds
+		Loss: 0.000228	Time: 5.64 seconds
+Saving model into ./model_saves/
+	File 253
+		Loss: 0.000133	Time: 6.36 seconds
+		Loss: 0.000216	Time: 6.26 seconds
+		Loss: 0.000186	Time: 6.27 seconds
+		Loss: 0.000151	Time: 6.27 seconds
+		Loss: 0.000144	Time: 6.28 seconds
+		Loss: 0.000184	Time: 6.46 seconds
+Saving model into ./model_saves/
+	File 254
+		Loss: 0.000232	Time: 6.40 seconds
+		Loss: 0.000134	Time: 6.30 seconds
+		Loss: 0.000137	Time: 6.31 seconds
+		Loss: 0.000212	Time: 6.31 seconds
+		Loss: 0.000139	Time: 6.32 seconds
+		Loss: 0.000027	Time: 4.94 seconds
+Saving model into ./model_saves/
+	File 255
+		Loss: 0.000049	Time: 6.38 seconds
+		Loss: 0.000199	Time: 6.25 seconds
+		Loss: 0.000304	Time: 6.26 seconds
+		Loss: 0.000138	Time: 6.27 seconds
+		Loss: 0.000170	Time: 6.28 seconds
+		Loss: 0.000145	Time: 6.27 seconds
+		Loss: 0.000172	Time: 6.28 seconds
+		Loss: 0.000194	Time: 6.29 seconds
+		Loss: 0.000156	Time: 6.28 seconds
+		Loss: 0.000129	Time: 6.28 seconds
+		Loss: 0.000087	Time: 6.29 seconds
+		Loss: 0.000050	Time: 5.66 seconds
+Saving model into ./model_saves/
+	File 256
+		Loss: 0.000145	Time: 6.38 seconds
+		Loss: 0.000194	Time: 6.30 seconds
+		Loss: 0.000262	Time: 6.30 seconds
+		Loss: 0.000160	Time: 6.30 seconds
+		Loss: 0.000144	Time: 6.30 seconds
+		Loss: 0.000122	Time: 6.30 seconds
+		Loss: 0.000160	Time: 6.30 seconds
+		Loss: 0.000177	Time: 6.30 seconds
+		Loss: 0.000190	Time: 6.30 seconds
+		Loss: 0.000137	Time: 6.31 seconds
+		Loss: 0.000166	Time: 6.01 seconds
+Saving model into ./model_saves/
+	File 257
+		Loss: 0.000158	Time: 6.45 seconds
+		Loss: 0.000220	Time: 6.26 seconds
+		Loss: 0.000117	Time: 6.26 seconds
+		Loss: 0.000156	Time: 6.28 seconds
+		Loss: 0.000203	Time: 6.28 seconds
+		Loss: 0.000162	Time: 6.29 seconds
+		Loss: 0.000235	Time: 6.33 seconds
+		Loss: 0.000171	Time: 6.30 seconds
+		Loss: 0.000163	Time: 6.31 seconds
+		Loss: 0.000142	Time: 6.32 seconds
+		Loss: 0.000068	Time: 6.29 seconds
+		Loss: 0.000066	Time: 5.26 seconds
+Saving model into ./model_saves/
+	File 258
+		Loss: 0.000221	Time: 6.38 seconds
+		Loss: 0.000215	Time: 6.30 seconds
+		Loss: 0.000151	Time: 6.32 seconds
+		Loss: 0.000244	Time: 6.30 seconds
+		Loss: 0.000193	Time: 6.31 seconds
+		Loss: 0.000172	Time: 6.32 seconds
+		Loss: 0.000144	Time: 6.31 seconds
+		Loss: 0.000138	Time: 6.32 seconds
+		Loss: 0.000135	Time: 6.31 seconds
+		Loss: 0.000117	Time: 6.32 seconds
+		Loss: 0.000141	Time: 6.01 seconds
+Saving model into ./model_saves/
+	File 259
+		Loss: 0.000130	Time: 6.41 seconds
+		Loss: 0.000267	Time: 6.26 seconds
+		Loss: 0.000144	Time: 6.27 seconds
+		Loss: 0.000182	Time: 6.27 seconds
+		Loss: 0.000111	Time: 6.29 seconds
+		Loss: 0.000130	Time: 6.28 seconds
+		Loss: 0.000226	Time: 6.28 seconds
+		Loss: 0.000131	Time: 6.29 seconds
+		Loss: 0.000127	Time: 5.51 seconds
+Saving model into ./model_saves/
+	File 260
+		Loss: 0.000237	Time: 6.38 seconds
+		Loss: 0.000161	Time: 6.27 seconds
+		Loss: 0.000159	Time: 6.27 seconds
+		Loss: 0.000159	Time: 6.28 seconds
+		Loss: 0.000130	Time: 6.17 seconds
+Saving model into ./model_saves/
+	File 261
+		Loss: 0.000162	Time: 6.38 seconds
+		Loss: 0.000169	Time: 6.30 seconds
+		Loss: 0.000153	Time: 6.30 seconds
+		Loss: 0.000212	Time: 6.30 seconds
+		Loss: 0.000112	Time: 8.11 seconds
+		Loss: 0.000106	Time: 6.30 seconds
+		Loss: 0.000217	Time: 6.32 seconds
+		Loss: 0.000119	Time: 6.30 seconds
+		Loss: 0.000173	Time: 6.30 seconds
+		Loss: 0.000149	Time: 6.30 seconds
+		Loss: 0.000155	Time: 6.30 seconds
+		Loss: 0.000127	Time: 6.31 seconds
+		Loss: 0.000167	Time: 6.14 seconds
+Saving model into ./model_saves/
+	File 262
+		Loss: 0.000231	Time: 6.38 seconds
+		Loss: 0.000131	Time: 6.26 seconds
+		Loss: 0.000156	Time: 6.27 seconds
+		Loss: 0.000180	Time: 6.28 seconds
+		Loss: 0.000163	Time: 6.29 seconds
+		Loss: 0.000118	Time: 6.29 seconds
+		Loss: 0.000165	Time: 6.30 seconds
+		Loss: 0.000054	Time: 5.08 seconds
+Saving model into ./model_saves/
+	File 263
+		Loss: 0.000122	Time: 6.36 seconds
+		Loss: 0.000172	Time: 6.27 seconds
+		Loss: 0.000157	Time: 6.28 seconds
+		Loss: 0.000189	Time: 6.30 seconds
+		Loss: 0.000159	Time: 6.30 seconds
+		Loss: 0.000144	Time: 6.30 seconds
+		Loss: 0.000095	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 264
+		Loss: 0.000222	Time: 6.36 seconds
+		Loss: 0.000170	Time: 6.27 seconds
+		Loss: 0.000149	Time: 6.27 seconds
+		Loss: 0.000165	Time: 6.40 seconds
+		Loss: 0.000155	Time: 6.30 seconds
+		Loss: 0.000157	Time: 6.32 seconds
+		Loss: 0.000184	Time: 6.31 seconds
+		Loss: 0.000145	Time: 6.31 seconds
+		Loss: 0.000120	Time: 6.30 seconds
+		Loss: 0.000136	Time: 6.30 seconds
+		Loss: 0.000118	Time: 5.97 seconds
+Saving model into ./model_saves/
+	File 265
+		Loss: 0.000183	Time: 6.40 seconds
+		Loss: 0.000298	Time: 6.30 seconds
+		Loss: 0.000108	Time: 6.30 seconds
+		Loss: 0.000154	Time: 6.31 seconds
+		Loss: 0.000124	Time: 6.31 seconds
+		Loss: 0.000134	Time: 5.49 seconds
+Saving model into ./model_saves/
+	File 266
+		Loss: 0.000115	Time: 6.39 seconds
+		Loss: 0.000183	Time: 6.31 seconds
+		Loss: 0.000124	Time: 6.32 seconds
+		Loss: 0.000160	Time: 6.32 seconds
+		Loss: 0.000096	Time: 6.33 seconds
+		Loss: 0.000145	Time: 6.34 seconds
+		Loss: 0.000130	Time: 6.33 seconds
+		Loss: 0.000135	Time: 6.33 seconds
+		Loss: 0.000110	Time: 6.34 seconds
+		Loss: 0.000107	Time: 6.34 seconds
+		Loss: 0.000137	Time: 5.32 seconds
+Saving model into ./model_saves/
+	File 267
+		Loss: 0.000125	Time: 6.40 seconds
+		Loss: 0.000174	Time: 6.32 seconds
+		Loss: 0.000142	Time: 6.32 seconds
+		Loss: 0.000116	Time: 6.33 seconds
+		Loss: 0.000133	Time: 6.34 seconds
+		Loss: 0.000150	Time: 6.35 seconds
+		Loss: 0.000184	Time: 6.36 seconds
+		Loss: 0.000150	Time: 6.35 seconds
+		Loss: 0.000128	Time: 6.35 seconds
+		Loss: 0.000160	Time: 6.34 seconds
+		Loss: 0.000183	Time: 6.35 seconds
+		Loss: 0.000160	Time: 5.24 seconds
+Saving model into ./model_saves/
+	File 268
+		Loss: 0.000108	Time: 6.41 seconds
+		Loss: 0.000148	Time: 6.30 seconds
+		Loss: 0.000143	Time: 6.28 seconds
+		Loss: 0.000098	Time: 6.30 seconds
+		Loss: 0.000134	Time: 6.30 seconds
+		Loss: 0.000143	Time: 6.31 seconds
+		Loss: 0.000147	Time: 6.31 seconds
+		Loss: 0.000173	Time: 6.31 seconds
+		Loss: 0.000108	Time: 6.32 seconds
+		Loss: 0.000108	Time: 6.30 seconds
+		Loss: 0.000141	Time: 6.31 seconds
+		Loss: 0.000150	Time: 6.31 seconds
+		Loss: 0.000142	Time: 6.31 seconds
+		Loss: 0.000153	Time: 6.30 seconds
+		Loss: 0.000164	Time: 6.30 seconds
+		Loss: 0.000161	Time: 6.30 seconds
+		Loss: 0.000176	Time: 5.57 seconds
+Saving model into ./model_saves/
+	File 269
+		Loss: 0.000137	Time: 6.40 seconds
+		Loss: 0.000192	Time: 6.29 seconds
+		Loss: 0.000129	Time: 6.29 seconds
+		Loss: 0.000163	Time: 6.30 seconds
+		Loss: 0.000183	Time: 6.31 seconds
+		Loss: 0.000117	Time: 6.31 seconds
+		Loss: 0.000142	Time: 6.31 seconds
+		Loss: 0.000114	Time: 6.31 seconds
+		Loss: 0.000215	Time: 6.30 seconds
+		Loss: 0.000178	Time: 6.31 seconds
+		Loss: 0.000173	Time: 5.48 seconds
+Saving model into ./model_saves/
+	File 270
+		Loss: 0.000143	Time: 6.38 seconds
+		Loss: 0.000161	Time: 6.29 seconds
+		Loss: 0.000132	Time: 6.29 seconds
+		Loss: 0.000254	Time: 6.30 seconds
+		Loss: 0.000125	Time: 6.31 seconds
+		Loss: 0.000117	Time: 6.30 seconds
+		Loss: 0.000152	Time: 6.30 seconds
+		Loss: 0.000128	Time: 6.31 seconds
+		Loss: 0.000141	Time: 6.31 seconds
+		Loss: 0.000175	Time: 6.31 seconds
+		Loss: 0.000137	Time: 6.31 seconds
+		Loss: 0.000128	Time: 6.31 seconds
+		Loss: 0.000114	Time: 5.85 seconds
+Saving model into ./model_saves/
+	File 271
+		Loss: 0.000149	Time: 6.40 seconds
+		Loss: 0.000164	Time: 6.33 seconds
+		Loss: 0.000138	Time: 6.31 seconds
+		Loss: 0.000150	Time: 6.33 seconds
+		Loss: 0.000156	Time: 6.33 seconds
+		Loss: 0.000275	Time: 6.35 seconds
+		Loss: 0.000125	Time: 6.35 seconds
+		Loss: 0.000160	Time: 6.33 seconds
+		Loss: 0.000168	Time: 6.33 seconds
+		Loss: 0.000212	Time: 6.35 seconds
+		Loss: 0.000192	Time: 5.68 seconds
+Saving model into ./model_saves/
+	File 272
+		Loss: 0.000139	Time: 6.39 seconds
+		Loss: 0.000181	Time: 6.29 seconds
+		Loss: 0.000148	Time: 6.27 seconds
+		Loss: 0.000169	Time: 6.29 seconds
+		Loss: 0.000141	Time: 6.30 seconds
+		Loss: 0.000113	Time: 6.31 seconds
+		Loss: 0.000154	Time: 6.31 seconds
+		Loss: 0.000138	Time: 6.31 seconds
+		Loss: 0.000170	Time: 6.30 seconds
+		Loss: 0.000175	Time: 6.30 seconds
+		Loss: 0.000155	Time: 6.30 seconds
+		Loss: 0.000140	Time: 6.31 seconds
+		Loss: 0.000129	Time: 6.06 seconds
+Saving model into ./model_saves/
+	File 273
+		Loss: 0.000169	Time: 6.37 seconds
+		Loss: 0.000201	Time: 6.30 seconds
+		Loss: 0.000176	Time: 6.31 seconds
+		Loss: 0.000187	Time: 6.31 seconds
+		Loss: 0.000111	Time: 6.31 seconds
+		Loss: 0.000195	Time: 6.32 seconds
+		Loss: 0.000176	Time: 6.31 seconds
+		Loss: 0.000156	Time: 6.31 seconds
+		Loss: 0.000173	Time: 6.31 seconds
+		Loss: 0.000133	Time: 6.30 seconds
+		Loss: 0.000178	Time: 6.31 seconds
+		Loss: 0.000162	Time: 6.27 seconds
+		Loss: 0.000149	Time: 5.43 seconds
+Saving model into ./model_saves/
+	File 274
+		Loss: 0.000110	Time: 6.36 seconds
+		Loss: 0.000153	Time: 6.27 seconds
+		Loss: 0.000115	Time: 6.27 seconds
+		Loss: 0.000154	Time: 6.28 seconds
+		Loss: 0.000192	Time: 6.28 seconds
+		Loss: 0.000118	Time: 6.29 seconds
+		Loss: 0.000139	Time: 6.30 seconds
+		Loss: 0.000172	Time: 6.29 seconds
+		Loss: 0.000099	Time: 5.41 seconds
+Saving model into ./model_saves/
+	File 275
+		Loss: 0.000135	Time: 6.36 seconds
+		Loss: 0.000128	Time: 6.27 seconds
+		Loss: 0.000172	Time: 6.31 seconds
+		Loss: 0.000135	Time: 6.28 seconds
+		Loss: 0.000153	Time: 6.29 seconds
+		Loss: 0.000126	Time: 6.30 seconds
+		Loss: 0.000091	Time: 6.37 seconds
+		Loss: 0.000131	Time: 6.29 seconds
+		Loss: 0.000132	Time: 6.28 seconds
+		Loss: 0.000127	Time: 6.36 seconds
+		Loss: 0.000129	Time: 6.32 seconds
+		Loss: 0.000055	Time: 5.02 seconds
+Saving model into ./model_saves/
+	File 276
+		Loss: 0.000112	Time: 6.39 seconds
+		Loss: 0.000119	Time: 6.27 seconds
+		Loss: 0.000121	Time: 6.28 seconds
+		Loss: 0.000168	Time: 6.31 seconds
+		Loss: 0.000202	Time: 6.30 seconds
+		Loss: 0.000130	Time: 6.30 seconds
+		Loss: 0.000091	Time: 6.30 seconds
+		Loss: 0.000133	Time: 6.30 seconds
+		Loss: 0.000166	Time: 6.31 seconds
+		Loss: 0.000136	Time: 6.31 seconds
+		Loss: 0.000145	Time: 6.31 seconds
+		Loss: 0.000143	Time: 6.10 seconds
+Saving model into ./model_saves/
+	File 277
+		Loss: 0.000112	Time: 6.39 seconds
+		Loss: 0.000108	Time: 6.30 seconds
+		Loss: 0.000214	Time: 6.34 seconds
+		Loss: 0.000126	Time: 6.32 seconds
+		Loss: 0.000104	Time: 6.31 seconds
+		Loss: 0.000153	Time: 6.31 seconds
+		Loss: 0.000092	Time: 6.30 seconds
+		Loss: 0.000097	Time: 6.31 seconds
+		Loss: 0.000105	Time: 6.32 seconds
+		Loss: 0.000135	Time: 6.31 seconds
+		Loss: 0.000082	Time: 5.23 seconds
+Saving model into ./model_saves/
+	File 278
+		Loss: 0.000112	Time: 6.40 seconds
+		Loss: 0.000219	Time: 6.30 seconds
+		Loss: 0.000106	Time: 6.31 seconds
+		Loss: 0.000112	Time: 6.30 seconds
+		Loss: 0.000262	Time: 6.32 seconds
+		Loss: 0.000155	Time: 6.33 seconds
+		Loss: 0.000150	Time: 6.30 seconds
+		Loss: 0.000094	Time: 6.01 seconds
+Saving model into ./model_saves/
+	File 279
+		Loss: 0.000107	Time: 6.42 seconds
+		Loss: 0.000183	Time: 6.26 seconds
+		Loss: 0.000133	Time: 6.26 seconds
+		Loss: 0.000142	Time: 6.32 seconds
+		Loss: 0.000143	Time: 6.28 seconds
+		Loss: 0.000078	Time: 6.29 seconds
+		Loss: 0.000032	Time: 5.27 seconds
+Saving model into ./model_saves/
+	File 280
+		Loss: 0.000127	Time: 6.39 seconds
+		Loss: 0.000221	Time: 6.28 seconds
+		Loss: 0.000140	Time: 6.29 seconds
+		Loss: 0.000123	Time: 6.30 seconds
+		Loss: 0.000142	Time: 6.31 seconds
+		Loss: 0.000107	Time: 6.31 seconds
+		Loss: 0.000129	Time: 6.31 seconds
+		Loss: 0.000170	Time: 6.31 seconds
+		Loss: 0.000164	Time: 6.30 seconds
+		Loss: 0.000140	Time: 6.31 seconds
+		Loss: 0.000124	Time: 6.31 seconds
+		Loss: 0.000107	Time: 6.31 seconds
+		Loss: 0.000166	Time: 6.30 seconds
+		Loss: 0.000188	Time: 6.31 seconds
+		Loss: 0.000123	Time: 5.63 seconds
+Saving model into ./model_saves/
+	File 281
+		Loss: 0.000175	Time: 6.38 seconds
+		Loss: 0.000146	Time: 6.29 seconds
+		Loss: 0.000136	Time: 6.28 seconds
+		Loss: 0.000161	Time: 6.30 seconds
+		Loss: 0.000122	Time: 6.30 seconds
+		Loss: 0.000144	Time: 6.30 seconds
+		Loss: 0.000097	Time: 6.32 seconds
+		Loss: 0.000187	Time: 6.30 seconds
+		Loss: 0.000131	Time: 6.29 seconds
+		Loss: 0.000149	Time: 5.31 seconds
+Saving model into ./model_saves/
+	File 282
+		Loss: 0.000148	Time: 6.36 seconds
+		Loss: 0.000090	Time: 6.27 seconds
+		Loss: 0.000110	Time: 6.28 seconds
+		Loss: 0.000110	Time: 6.28 seconds
+		Loss: 0.000100	Time: 6.29 seconds
+		Loss: 0.000133	Time: 6.30 seconds
+		Loss: 0.000128	Time: 6.30 seconds
+		Loss: 0.000095	Time: 6.30 seconds
+		Loss: 0.000142	Time: 6.30 seconds
+		Loss: 0.000088	Time: 6.30 seconds
+		Loss: 0.000124	Time: 6.30 seconds
+		Loss: 0.000056	Time: 5.18 seconds
+Saving model into ./model_saves/
+	File 283
+		Loss: 0.000173	Time: 6.36 seconds
+		Loss: 0.000278	Time: 6.28 seconds
+		Loss: 0.000129	Time: 6.27 seconds
+		Loss: 0.000146	Time: 6.29 seconds
+		Loss: 0.000107	Time: 6.28 seconds
+		Loss: 0.000107	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 284
+		Loss: 0.000124	Time: 6.40 seconds
+		Loss: 0.000181	Time: 6.30 seconds
+		Loss: 0.000121	Time: 6.29 seconds
+		Loss: 0.000101	Time: 6.31 seconds
+		Loss: 0.000150	Time: 6.07 seconds
+Saving model into ./model_saves/
+	File 285
+		Loss: 0.000136	Time: 6.37 seconds
+		Loss: 0.000211	Time: 6.27 seconds
+		Loss: 0.000151	Time: 6.28 seconds
+		Loss: 0.000151	Time: 6.28 seconds
+		Loss: 0.000162	Time: 6.28 seconds
+		Loss: 0.000104	Time: 6.29 seconds
+		Loss: 0.000191	Time: 6.29 seconds
+		Loss: 0.000139	Time: 6.29 seconds
+		Loss: 0.000063	Time: 5.09 seconds
+Saving model into ./model_saves/
+	File 286
+		Loss: 0.000140	Time: 6.32 seconds
+		Loss: 0.000155	Time: 6.27 seconds
+		Loss: 0.000233	Time: 6.27 seconds
+		Loss: 0.000161	Time: 6.28 seconds
+		Loss: 0.000165	Time: 6.28 seconds
+		Loss: 0.000119	Time: 6.28 seconds
+		Loss: 0.000143	Time: 6.28 seconds
+		Loss: 0.000099	Time: 6.28 seconds
+		Loss: 0.000124	Time: 6.28 seconds
+		Loss: 0.000106	Time: 6.28 seconds
+		Loss: 0.000103	Time: 6.30 seconds
+		Loss: 0.000100	Time: 5.25 seconds
+Saving model into ./model_saves/
+	File 287
+		Loss: 0.000145	Time: 6.37 seconds
+		Loss: 0.000143	Time: 6.25 seconds
+		Loss: 0.000212	Time: 6.25 seconds
+		Loss: 0.000248	Time: 6.26 seconds
+		Loss: 0.000166	Time: 6.27 seconds
+		Loss: 0.000102	Time: 6.27 seconds
+		Loss: 0.000131	Time: 6.27 seconds
+		Loss: 0.000154	Time: 6.27 seconds
+		Loss: 0.000112	Time: 5.99 seconds
+Saving model into ./model_saves/
+	File 288
+		Loss: 0.000113	Time: 6.42 seconds
+		Loss: 0.000107	Time: 6.25 seconds
+		Loss: 0.000184	Time: 6.25 seconds
+		Loss: 0.000153	Time: 6.27 seconds
+		Loss: 0.000163	Time: 6.26 seconds
+		Loss: 0.000111	Time: 6.27 seconds
+		Loss: 0.000100	Time: 6.29 seconds
+		Loss: 0.000054	Time: 5.02 seconds
+Saving model into ./model_saves/
+	File 289
+		Loss: 0.000099	Time: 6.34 seconds
+		Loss: 0.000218	Time: 6.27 seconds
+		Loss: 0.000101	Time: 6.28 seconds
+		Loss: 0.000115	Time: 6.29 seconds
+		Loss: 0.000124	Time: 6.29 seconds
+		Loss: 0.000155	Time: 6.33 seconds
+		Loss: 0.000147	Time: 6.29 seconds
+		Loss: 0.000110	Time: 6.30 seconds
+		Loss: 0.000194	Time: 6.30 seconds
+		Loss: 0.000139	Time: 6.30 seconds
+		Loss: 0.000112	Time: 6.30 seconds
+		Loss: 0.000122	Time: 6.30 seconds
+		Loss: 0.000118	Time: 6.30 seconds
+		Loss: 0.000109	Time: 6.30 seconds
+		Loss: 0.000131	Time: 5.45 seconds
+Saving model into ./model_saves/
+	File 290
+		Loss: 0.000115	Time: 6.34 seconds
+		Loss: 0.000149	Time: 6.26 seconds
+		Loss: 0.000172	Time: 6.28 seconds
+		Loss: 0.000110	Time: 6.27 seconds
+		Loss: 0.000126	Time: 6.28 seconds
+		Loss: 0.000170	Time: 6.28 seconds
+		Loss: 0.000156	Time: 6.28 seconds
+		Loss: 0.000103	Time: 6.28 seconds
+		Loss: 0.000134	Time: 6.29 seconds
+		Loss: 0.000122	Time: 6.28 seconds
+		Loss: 0.000127	Time: 6.28 seconds
+		Loss: 0.000131	Time: 6.29 seconds
+		Loss: 0.000126	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 291
+		Loss: 0.000123	Time: 6.34 seconds
+		Loss: 0.000153	Time: 6.25 seconds
+		Loss: 0.000110	Time: 6.32 seconds
+		Loss: 0.000128	Time: 6.23 seconds
+		Loss: 0.000108	Time: 6.24 seconds
+		Loss: 0.000219	Time: 6.25 seconds
+		Loss: 0.000082	Time: 6.24 seconds
+		Loss: 0.000038	Time: 5.77 seconds
+Saving model into ./model_saves/
+	File 292
+		Loss: 0.000111	Time: 6.27 seconds
+		Loss: 0.000119	Time: 6.01 seconds
+		Loss: 0.000138	Time: 6.02 seconds
+		Loss: 0.000125	Time: 6.03 seconds
+		Loss: 0.000112	Time: 6.04 seconds
+		Loss: 0.000128	Time: 6.04 seconds
+		Loss: 0.000102	Time: 6.03 seconds
+		Loss: 0.000100	Time: 6.04 seconds
+		Loss: 0.000094	Time: 6.04 seconds
+		Loss: 0.000064	Time: 5.24 seconds
+Saving model into ./model_saves/
+	File 293
+		Loss: 0.000148	Time: 6.33 seconds
+		Loss: 0.000119	Time: 6.22 seconds
+		Loss: 0.000130	Time: 6.21 seconds
+		Loss: 0.000106	Time: 6.23 seconds
+		Loss: 0.000118	Time: 6.23 seconds
+		Loss: 0.000128	Time: 6.24 seconds
+		Loss: 0.000121	Time: 6.24 seconds
+		Loss: 0.000158	Time: 6.23 seconds
+		Loss: 0.000134	Time: 6.22 seconds
+		Loss: 0.000102	Time: 6.24 seconds
+		Loss: 0.000046	Time: 4.97 seconds
+Saving model into ./model_saves/
+	File 294
+		Loss: 0.000124	Time: 6.30 seconds
+		Loss: 0.000176	Time: 6.18 seconds
+		Loss: 0.000172	Time: 6.21 seconds
+		Loss: 0.000133	Time: 6.22 seconds
+		Loss: 0.000131	Time: 6.22 seconds
+		Loss: 0.000118	Time: 6.29 seconds
+		Loss: 0.000092	Time: 6.26 seconds
+		Loss: 0.000163	Time: 6.27 seconds
+		Loss: 0.000119	Time: 6.27 seconds
+		Loss: 0.000123	Time: 6.27 seconds
+		Loss: 0.000132	Time: 6.25 seconds
+		Loss: 0.000092	Time: 5.99 seconds
+Saving model into ./model_saves/
+	File 295
+		Loss: 0.000106	Time: 6.41 seconds
+		Loss: 0.000133	Time: 6.22 seconds
+		Loss: 0.000147	Time: 6.23 seconds
+		Loss: 0.000114	Time: 6.24 seconds
+		Loss: 0.000118	Time: 6.26 seconds
+		Loss: 0.000115	Time: 6.25 seconds
+		Loss: 0.000099	Time: 6.27 seconds
+		Loss: 0.000173	Time: 6.25 seconds
+		Loss: 0.000097	Time: 5.87 seconds
+Saving model into ./model_saves/
+	File 296
+		Loss: 0.000073	Time: 6.39 seconds
+		Loss: 0.000135	Time: 6.05 seconds
+		Loss: 0.000097	Time: 6.06 seconds
+		Loss: 0.000087	Time: 6.07 seconds
+		Loss: 0.000104	Time: 6.08 seconds
+		Loss: 0.000098	Time: 6.08 seconds
+		Loss: 0.000101	Time: 6.09 seconds
+		Loss: 0.000125	Time: 6.08 seconds
+		Loss: 0.000085	Time: 6.08 seconds
+		Loss: 0.000122	Time: 6.08 seconds
+		Loss: 0.000138	Time: 5.54 seconds
+Saving model into ./model_saves/
+	File 297
+		Loss: 0.000182	Time: 6.39 seconds
+		Loss: 0.000187	Time: 6.30 seconds
+		Loss: 0.000179	Time: 6.28 seconds
+		Loss: 0.000112	Time: 6.30 seconds
+		Loss: 0.000103	Time: 6.32 seconds
+		Loss: 0.000116	Time: 6.37 seconds
+		Loss: 0.000092	Time: 6.31 seconds
+		Loss: 0.000102	Time: 6.31 seconds
+		Loss: 0.000132	Time: 6.29 seconds
+		Loss: 0.000138	Time: 5.44 seconds
+Saving model into ./model_saves/
+	File 298
+		Loss: 0.000115	Time: 6.36 seconds
+		Loss: 0.000184	Time: 6.26 seconds
+		Loss: 0.000103	Time: 6.28 seconds
+		Loss: 0.000173	Time: 6.27 seconds
+		Loss: 0.000132	Time: 6.27 seconds
+		Loss: 0.000080	Time: 6.28 seconds
+		Loss: 0.000093	Time: 6.28 seconds
+		Loss: 0.000126	Time: 6.27 seconds
+		Loss: 0.000088	Time: 6.28 seconds
+		Loss: 0.000088	Time: 6.28 seconds
+		Loss: 0.000121	Time: 6.29 seconds
+		Loss: 0.000107	Time: 5.45 seconds
+Saving model into ./model_saves/
+	File 299
+		Loss: 0.000100	Time: 6.15 seconds
+		Loss: 0.000193	Time: 6.26 seconds
+		Loss: 0.000096	Time: 6.27 seconds
+		Loss: 0.000137	Time: 6.27 seconds
+		Loss: 0.000106	Time: 5.56 seconds
+Saving model into ./model_saves/
+	File 300
+		Loss: 0.000094	Time: 6.16 seconds
+		Loss: 0.000091	Time: 6.28 seconds
+		Loss: 0.000130	Time: 6.26 seconds
+		Loss: 0.000131	Time: 6.26 seconds
+		Loss: 0.000083	Time: 6.26 seconds
+		Loss: 0.000082	Time: 6.27 seconds
+		Loss: 0.000110	Time: 6.27 seconds
+		Loss: 0.000091	Time: 6.29 seconds
+		Loss: 0.000102	Time: 6.27 seconds
+		Loss: 0.000124	Time: 5.93 seconds
+Saving model into ./model_saves/
+	File 301
+		Loss: 0.000072	Time: 6.17 seconds
+		Loss: 0.000090	Time: 6.24 seconds
+		Loss: 0.000116	Time: 6.25 seconds
+		Loss: 0.000100	Time: 6.25 seconds
+		Loss: 0.000088	Time: 6.26 seconds
+		Loss: 0.000139	Time: 6.26 seconds
+		Loss: 0.000155	Time: 6.26 seconds
+		Loss: 0.000098	Time: 6.26 seconds
+		Loss: 0.000110	Time: 5.56 seconds
+Saving model into ./model_saves/
+	File 302
+		Loss: 0.000099	Time: 6.15 seconds
+		Loss: 0.000164	Time: 6.24 seconds
+		Loss: 0.000080	Time: 6.22 seconds
+		Loss: 0.000137	Time: 6.24 seconds
+		Loss: 0.000141	Time: 6.23 seconds
+		Loss: 0.000094	Time: 6.26 seconds
+		Loss: 0.000079	Time: 6.24 seconds
+		Loss: 0.000117	Time: 6.25 seconds
+		Loss: 0.000104	Time: 6.27 seconds
+		Loss: 0.000114	Time: 6.25 seconds
+		Loss: 0.000085	Time: 5.17 seconds
+Saving model into ./model_saves/
+	File 303
+		Loss: 0.000114	Time: 6.18 seconds
+		Loss: 0.000135	Time: 6.27 seconds
+		Loss: 0.000166	Time: 6.27 seconds
+		Loss: 0.000121	Time: 6.28 seconds
+		Loss: 0.000147	Time: 6.30 seconds
+		Loss: 0.000080	Time: 5.53 seconds
+Saving model into ./model_saves/
+	File 304
+		Loss: 0.000090	Time: 6.16 seconds
+		Loss: 0.000116	Time: 6.26 seconds
+		Loss: 0.000140	Time: 6.25 seconds
+		Loss: 0.000136	Time: 6.26 seconds
+		Loss: 0.000124	Time: 6.27 seconds
+		Loss: 0.000109	Time: 6.27 seconds
+		Loss: 0.000121	Time: 6.27 seconds
+		Loss: 0.000117	Time: 6.28 seconds
+		Loss: 0.000103	Time: 5.37 seconds
+Saving model into ./model_saves/
+	File 305
+		Loss: 0.000101	Time: 6.36 seconds
+		Loss: 0.000151	Time: 6.25 seconds
+		Loss: 0.000102	Time: 6.25 seconds
+		Loss: 0.000156	Time: 6.27 seconds
+		Loss: 0.000137	Time: 6.27 seconds
+		Loss: 0.000111	Time: 6.28 seconds
+		Loss: 0.000112	Time: 6.27 seconds
+		Loss: 0.000113	Time: 6.28 seconds
+		Loss: 0.000101	Time: 5.99 seconds
+Saving model into ./model_saves/
+	File 306
+		Loss: 0.000116	Time: 6.45 seconds
+		Loss: 0.000089	Time: 6.26 seconds
+		Loss: 0.000168	Time: 6.25 seconds
+		Loss: 0.000108	Time: 6.26 seconds
+		Loss: 0.000080	Time: 6.27 seconds
+		Loss: 0.000068	Time: 6.27 seconds
+		Loss: 0.000132	Time: 6.27 seconds
+		Loss: 0.000098	Time: 6.26 seconds
+		Loss: 0.000091	Time: 6.28 seconds
+		Loss: 0.000063	Time: 6.28 seconds
+		Loss: 0.000089	Time: 6.28 seconds
+		Loss: 0.000073	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 307
+		Loss: 0.000075	Time: 6.38 seconds
+		Loss: 0.000080	Time: 6.25 seconds
+		Loss: 0.000085	Time: 6.26 seconds
+		Loss: 0.000068	Time: 6.26 seconds
+		Loss: 0.000103	Time: 6.28 seconds
+		Loss: 0.000071	Time: 6.28 seconds
+		Loss: 0.000082	Time: 6.27 seconds
+		Loss: 0.000084	Time: 6.27 seconds
+		Loss: 0.000089	Time: 6.28 seconds
+		Loss: 0.000087	Time: 6.28 seconds
+		Loss: 0.000081	Time: 6.28 seconds
+		Loss: 0.000072	Time: 5.49 seconds
+Saving model into ./model_saves/
+	File 308
+		Loss: 0.000096	Time: 6.15 seconds
+		Loss: 0.000112	Time: 6.20 seconds
+		Loss: 0.000079	Time: 6.20 seconds
+		Loss: 0.000147	Time: 6.22 seconds
+		Loss: 0.000099	Time: 6.22 seconds
+		Loss: 0.000138	Time: 6.21 seconds
+		Loss: 0.000061	Time: 6.23 seconds
+		Loss: 0.000038	Time: 4.96 seconds
+Saving model into ./model_saves/
+	File 309
+		Loss: 0.000062	Time: 6.36 seconds
+		Loss: 0.000132	Time: 6.27 seconds
+		Loss: 0.000109	Time: 6.24 seconds
+		Loss: 0.000162	Time: 6.32 seconds
+		Loss: 0.000088	Time: 6.26 seconds
+		Loss: 0.000100	Time: 6.24 seconds
+		Loss: 0.000079	Time: 6.24 seconds
+		Loss: 0.000091	Time: 5.30 seconds
+Saving model into ./model_saves/
+	File 310
+		Loss: 0.000128	Time: 6.16 seconds
+		Loss: 0.000115	Time: 6.24 seconds
+		Loss: 0.000131	Time: 6.25 seconds
+		Loss: 0.000063	Time: 6.26 seconds
+		Loss: 0.000113	Time: 6.27 seconds
+		Loss: 0.000075	Time: 6.28 seconds
+		Loss: 0.000112	Time: 6.26 seconds
+		Loss: 0.000093	Time: 5.98 seconds
+Saving model into ./model_saves/
+	File 311
+		Loss: 0.000118	Time: 6.31 seconds
+		Loss: 0.000081	Time: 6.27 seconds
+		Loss: 0.000090	Time: 6.27 seconds
+		Loss: 0.000126	Time: 6.28 seconds
+		Loss: 0.000094	Time: 6.30 seconds
+		Loss: 0.000184	Time: 6.29 seconds
+		Loss: 0.000097	Time: 6.29 seconds
+		Loss: 0.000104	Time: 6.30 seconds
+		Loss: 0.000086	Time: 6.30 seconds
+		Loss: 0.000136	Time: 6.29 seconds
+		Loss: 0.000085	Time: 5.94 seconds
+Saving model into ./model_saves/
+	File 312
+		Loss: 0.000081	Time: 6.16 seconds
+		Loss: 0.000139	Time: 6.25 seconds
+		Loss: 0.000088	Time: 6.27 seconds
+		Loss: 0.000135	Time: 6.26 seconds
+		Loss: 0.000109	Time: 6.28 seconds
+		Loss: 0.000125	Time: 6.27 seconds
+		Loss: 0.000091	Time: 6.27 seconds
+		Loss: 0.000130	Time: 6.27 seconds
+		Loss: 0.000091	Time: 6.28 seconds
+		Loss: 0.000150	Time: 6.27 seconds
+		Loss: 0.000100	Time: 6.27 seconds
+		Loss: 0.000107	Time: 6.27 seconds
+		Loss: 0.000081	Time: 5.59 seconds
+Saving model into ./model_saves/
+	File 313
+		Loss: 0.000118	Time: 6.43 seconds
+		Loss: 0.000152	Time: 6.24 seconds
+		Loss: 0.000137	Time: 6.24 seconds
+		Loss: 0.000115	Time: 6.25 seconds
+		Loss: 0.000085	Time: 6.26 seconds
+		Loss: 0.000098	Time: 6.26 seconds
+		Loss: 0.000097	Time: 5.78 seconds
+Saving model into ./model_saves/
+	File 314
+		Loss: 0.000099	Time: 6.31 seconds
+		Loss: 0.000121	Time: 6.22 seconds
+		Loss: 0.000099	Time: 6.23 seconds
+		Loss: 0.000189	Time: 6.23 seconds
+		Loss: 0.000079	Time: 6.24 seconds
+		Loss: 0.000096	Time: 6.30 seconds
+		Loss: 0.000095	Time: 6.25 seconds
+		Loss: 0.000098	Time: 6.26 seconds
+		Loss: 0.000071	Time: 6.26 seconds
+		Loss: 0.000129	Time: 6.26 seconds
+		Loss: 0.000096	Time: 6.25 seconds
+		Loss: 0.000096	Time: 5.57 seconds
+Saving model into ./model_saves/
+	File 315
+		Loss: 0.000110	Time: 6.34 seconds
+		Loss: 0.000079	Time: 6.24 seconds
+		Loss: 0.000089	Time: 6.24 seconds
+		Loss: 0.000092	Time: 6.25 seconds
+		Loss: 0.000075	Time: 6.25 seconds
+		Loss: 0.000099	Time: 6.25 seconds
+		Loss: 0.000080	Time: 6.15 seconds
+Saving model into ./model_saves/
+	File 316
+		Loss: 0.000098	Time: 6.29 seconds
+		Loss: 0.000116	Time: 6.24 seconds
+		Loss: 0.000119	Time: 6.24 seconds
+		Loss: 0.000074	Time: 6.25 seconds
+		Loss: 0.000122	Time: 6.28 seconds
+		Loss: 0.000098	Time: 6.27 seconds
+		Loss: 0.000130	Time: 6.28 seconds
+		Loss: 0.000069	Time: 5.33 seconds
+Saving model into ./model_saves/
+	File 317
+		Loss: 0.000111	Time: 6.31 seconds
+		Loss: 0.000110	Time: 6.26 seconds
+		Loss: 0.000121	Time: 6.26 seconds
+		Loss: 0.000102	Time: 6.27 seconds
+		Loss: 0.000119	Time: 6.29 seconds
+		Loss: 0.000086	Time: 6.28 seconds
+		Loss: 0.000092	Time: 6.28 seconds
+		Loss: 0.000083	Time: 6.29 seconds
+		Loss: 0.000069	Time: 6.28 seconds
+		Loss: 0.000087	Time: 6.27 seconds
+		Loss: 0.000103	Time: 6.57 seconds
+		Loss: 0.000092	Time: 6.00 seconds
+Saving model into ./model_saves/
+
