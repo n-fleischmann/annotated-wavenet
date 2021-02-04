@@ -1,0 +1,88 @@
+\subsection{Backend dataset}
+\begin{minted}{python}
+class CustomDataset(d.Dataset):
+    def __init__(self, dir, sr=16000, channels=256, trim=2048):
+        '''
+        dir : Path to directory of audio files
+        sr  : Sample rate of audio files
+        channels : Number of quantization channels
+        trim : Number of samples in each segment, 0 is no trim
+        '''
+        super(CustomDataset, self).__init__()
+
+        self.channels = channels
+        self.sample_rate = sr
+        self.trim = trim
+
+        self.path = dir
+        self.filenames = [filename for filename in sorted(os.listdir(dir))]
+
+    def __getitem__(self, idx):
+        file = os.path.join(self.path, self.filenames[idx])
+        audio = load(file, self.sample_rate, self.trim)
+        companded = mu_law_encode(audio, self.channels)
+        return one_hot_encode(companded, self.channels)
+
+    def __len__(self):
+        return len(self.filenames)
+\end{minted}
+
+\subsection{\code{InputSizeError}}
+
+
+\begin{minted}{python}
+class InputSizeError(Exception):
+    def __init__(self, input_size, receptive_fields, output_size):
+
+        message = 'Input size has to be larger than receptive_fields\n'
+        message += 'Input size: {0}, Receptive fields size: {1}, Output size: {2}'.format(
+            input_size, receptive_fields, output_size)
+
+        super(InputSizeError, self).__init__(message)
+
+\end{minted}
+
+\newpage
+\subsection{\code{Generator} methods}
+
+\begin{minted}{python}
+class Generator:
+    ...
+    @staticmethod
+    def _variable(data):
+        tensor = torch.from_numpy(data).float()
+
+        if torch.cuda.is_available():
+            return torch.autograd.Variable(tensor.cuda())
+        else:
+            return torch.autograd.Variable(tensor)
+
+    def _make_seed(self, audio):
+        audio = np.pad([audio], [[0, 0], [self.wavenet.receptive_field, 0], [0, 0]], 'constant')
+
+        if self.sample_size:
+            seed = audio[:, :self.sample_size, :]
+        else:
+            seed = audio[:, :self.wavenet_receptive_field * 2, :]
+
+        return seed
+
+    def _get_seed_from_audio(self, filepath):
+        audio = data.load(filepath, self.sample_rate)
+        audio_length = len(audio)
+
+        audio = data.mu_law_encode(audio, self.wavenet.in_channels)
+        audio = data.one_hot_encode(audio, self.wavenet.in_channels)
+
+        seed = self._make_seed(audio)
+
+        return self._variable(seed), audio_length
+
+    def _save_to_audio_file(self, output):
+        output = output[0].cpu().data.numpy()
+        output = data.one_hot_decode(output, axis=1)
+        waveform = data.mu_law_decode(output, self.wavenet.in_channels)
+
+        write_wav(self.out_path, waveform, self.sample_rate)
+        print('Saved wav file at {}'.format(self.out_path))
+\end{minted}

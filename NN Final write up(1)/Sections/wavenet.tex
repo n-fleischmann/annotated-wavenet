@@ -1,0 +1,111 @@
+Now that we have our model parts submodule, we can assemble WaveNet. To acomplish this, we need to implement four things: initialization, the forward pass, and then training and generating from one instance.
+
+\subsection{Initialization}
+
+To initialize our model, we need to take in the number of blocks, the number of layers in each block, the number of input channels, and the number of residual channels, as well as the learning rate for which we will set a default. 
+
+\begin{minted}{python}
+import torch
+from torch import nn
+import time
+import os
+
+from WaveNet.model_parts import *
+from WaveNet.exceptions import InputSizeError
+
+\end{minted}
+\newpage
+
+\begin{minted}{python}
+class WaveNet(nn.Module):
+    def __init__(self, layer_size, stack_size, in_channels, residual_channels, lr=0.002):
+        super(WaveNet, self).__init__()
+
+        self.in_channels = in_channels
+        self.receptive_field = sum([2**i for i in range(0, layer_size)] * stack_size)
+        
+        self.start_conv = CausalConv(in_channels, residual_channels)
+        self.stack = BlockStack(layer_size, stack_size, residual_channels, in_channels)
+        self.outnet = OutNet(in_channels)
+        
+        self.lr = lr
+        self.loss = self._loss()
+        self.optimizer = self._optimizer()
+
+    @staticmethod
+    def _loss():
+        loss = torch.nn.CrossEntropyLoss()
+        if torch.cuda.is_available():
+            loss = loss.cuda()
+        return loss
+
+    def _optimizer(self):
+        return torch.optim.Adam(self.parameters(), lr=self.lr)
+\end{minted}
+
+At this point we can exactly calculate the receptive field using the following formula: $R = B\sum^n_{i=0}2^i$, where R is the receptive field, B is the number of blocks, and n is the number of layers in each block. Additionally, we will define two helper functions that define the loss and the optimizer, optionally putting them on the GPU if it is available.
+
+\subsection{Forward Pass}
+
+Similarly, defining the forward pass is straight forward. Our model will start by transposing the second and third dimensions of our input to put the number of channels in the middle. After that, we simply pass forward. 
+
+\begin{minted}{python}
+
+class WaveNet(nn.module):        
+    ...
+    def _output_size(self, x):
+        output_size = int(x.shape[1]) - self.receptive_field
+        if output_size < 1: 
+            raise InputSizeError(int(x.shape[1]), self.receptive_field, output_size)
+        return output_size
+        
+    def forward(self, x, verbose=False):
+        output = x.transpose(1, 2)                                  # Transpose
+        output = self.start_conv(output)                            # In network
+        if verbose: print('Dilating:')
+        skips = self.stack(output, self._output_size(x))            # Dilation
+        output = torch.sum(skips, dim=0)
+        output = self.outnet(output)                                # Out network
+        return output.transpose(1, 2).contiguous()                  # Retranspose
+\end{minted}
+
+\newpage
+To pass to our residual stack, we need a third helper function that calculates our desired output size and raises an error\footnote{The code for \code{InputSizeError} is available in Appendix A} if the sample is shorter than our residual field. After getting our skip connections, we sum along the dimension we created when we stacked our skip connections in the residual block. Finally, we pass to our out network and re-transpose the dimensions back.
+
+\subsection{Training \& Generating}
+
+Now that we have our forward method, we can define a method that trains the model on one instance. We simply have to pass some inputs through the \code{forward} method we just wrote, evaluate our loss, and step our optimizer. We'll also add a print statement for the time and for the loss, because watching the loss tick down is an integral part of the user experience and gives us an excuse to say we are working while we drink our coffee. Later, we will put our full training loop in a class that cycles through our dataset calling this method.
+
+\begin{minted}{python}
+class WaveNet(nn.Module):
+    ...
+    def train(self, inputs, targets, verbose=False, timer=False):
+        if timer: start_time = time.time()
+
+        # Train one time
+        outputs = self.forward(inputs, verbose=verbose)
+
+        loss = self.loss(outputs.view(-1, self.in_channels),
+                        targets.long().view(-1))
+
+        if timer:
+            print('\t\tLoss: {:.6f}'.format(loss.item()) \
+                    + '\tTime: {:.2f} seconds'.format(time.time() - start_time))
+        else:
+            print('\t\tLoss: {}'.format(loss.item()))
+
+        self.optimizer.zero_grad()
+
+        if verbose: print('Backpropagating...')
+        loss.backward()
+        if verbose: print('Optimizing...')
+        self.optimizer.step()
+
+        return loss.item()
+        
+    def generate(self, inputs):
+        # Generate 1 time
+        return self.forward(inputs)
+\end{minted}
+
+To generate on one instance, we just have to pass an input -- in this case the previous receptive-field's worth of samples -- through forward and return. Similarly we will create a Generator class that will do the heavy lifting of creating a seed and saving our output.

@@ -1,0 +1,57 @@
+\documentclass[10pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{import}
+\usepackage{minted}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue}
+\usepackage{graphicx}
+\usepackage[rightcaption]{sidecap}
+\graphicspath{ {./Images/} }
+
+\usepackage{amsmath}
+\DeclareMathOperator{\sign}{sign}
+
+\def\code#1{\texttt{#1}}
+
+\title{Annotated WaveNet}
+\author{Noah Fleischmann}
+\date{December 2020}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    The purpose of this paper is to annotate and explain DeepMind's WaveNet architecture. To do this, we divide the problem into submodules that build upon each other, first understanding and preparing our data, then constructing the architecture's key parts before building specialty classes that train- and generate from the model. After creation of these parts, we will train our stripped down version using a portion of CMU Arctic bdl, a dataset created by Carnegie Mellon University, and generating using \code{helloworld.wav} from Jaehun Ryu's implementation on GitHub, from which this paper is based. We will find that this version of the model can identify and imitate broad features of the given seed audio, in this case, the rhythm of speech, but is not able to fully imitate the data it is trained on.
+\end{abstract}
+
+\section{Introduction}
+\import{Sections/}{introduction.tex}
+
+\section{Data}
+\import{Sections/}{data.tex}
+
+\section{Model Parts}
+\import{Sections/}{model_parts.tex}
+
+\section{WaveNet}
+\import{Sections/}{wavenet.tex}
+
+\section{Trainer}
+\import{Sections/}{trainer.tex}
+
+\newpage
+\section{Generator}
+\import{Sections/}{generate.tex}
+
+\section{Conclusion \& Next Steps}
+\import{Sections/}{conc.tex}
+
+\appendix
+
+\newpage
+\section{Extra Code Snippets}
+\import{Sections/Apdx}{extras.tex}
+
+\end{document}
